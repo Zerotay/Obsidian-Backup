@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "d15061444e9d16b5",
+            "id": "21f481a7fb7b9c9c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md"
+                "file": "1.dummy/Untitled.md"
               }
             }
           },
@@ -165,14 +165,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34d785dafd01fa66",
+  "active": "815f25630ac3c06c",
   "lastOpenFiles": [
+    "무제 파일.md",
     "1.dummy/Untitled.md",
+    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "Vault.md",
     "Spaces/#알고리즘/#알고리즘.md",
-    "무제 파일.md",
     "Spaces/#cc",
-    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "Spaces/#알고리즘",
     "Spaces/#hh/#hh.md",
     "1.dummy/1.dummy.md",

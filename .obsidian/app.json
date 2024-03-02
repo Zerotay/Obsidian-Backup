@@ -3,7 +3,7 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "rightToLeft": false,
-  "vimMode": false,
+  "vimMode": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "media",
   "tabSize": 4,
