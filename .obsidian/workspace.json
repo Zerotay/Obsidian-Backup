@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#태그",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "21f481a7fb7b9c9c",
+            "id": "6b1030c07b8540e7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "3ce20c94d7fde438",
@@ -136,7 +136,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -156,12 +156,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +175,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96be17f59754e38c",
+  "active": "b0ecb1053d5cc1c9",
   "lastOpenFiles": [
+    "2.project/건프라/멀캠 ip 자동화 스크립트/Untitled.md",
     "1.dummy/24.03.02 옵시디언 사용하기.md",
     "2.project/건프라/Untitled.canvas",
     "2.project/건프라/멀캠 ip 자동화 스크립트/멀캠 ip 자동화 스크립트.md",
