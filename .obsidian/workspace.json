@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc71eb6215ce7bf",
+        "id": "2d8a53d78013c89d",
         "type": "tabs",
         "children": [
           {
-            "id": "34d785dafd01fa66",
+            "id": "9783df7b0afec5ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/Untitled.md",
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "272343dc1b895e0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note Name.md",
-                "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/Untitled.md",
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/Untitled.md",
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/Untitled.md"
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md"
               }
             }
           },
@@ -160,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,18 +166,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34d785dafd01fa66",
+  "active": "9783df7b0afec5ed",
   "lastOpenFiles": [
-    "Spaces/#gogo/#gogo.md",
     "1.dummy/Untitled 2.md",
+    "1.dummy/Untitled.md",
+    "1.dummy/Untitled 1.md",
+    "Note Name.md",
+    "Spaces/#gogo/#gogo.md",
     "Spaces/#gogo",
     "2.project/Untitled.md",
-    "1.dummy/Untitled 1.md",
-    "1.dummy/Untitled.md",
     "Untitled.md",
     "1.dummy/1.dummy.md",
     "1.dummy/24.03.02 옵시디언 사용하기.md",
-    "Note Name.md",
     "테스트.md",
     "Spaces/Untitled 2.md",
     "Spaces/Untitled.md",
