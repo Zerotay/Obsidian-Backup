@@ -19,7 +19,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "/",
+  "activeView": "spaces://$tags",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -69,7 +69,8 @@
     "//1.dummy",
     "//2.project",
     "//1.dummy",
-    "//Spaces"
+    "//Spaces",
+    "//1.dummy"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
