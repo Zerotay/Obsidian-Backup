@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,8 +166,11 @@
   },
   "active": "34d785dafd01fa66",
   "lastOpenFiles": [
-    "1.dummy/24.03.02 옵시디언 사용하기.md",
+    "무제 파일.md",
     "1.dummy/Untitled.md",
+    "Spaces/#cc",
+    "1.dummy/24.03.02 옵시디언 사용하기.md",
+    "Spaces/#알고리즘/#알고리즘.md",
     "Spaces/#알고리즘",
     "Spaces/#hh/#hh.md",
     "1.dummy/1.dummy.md",
