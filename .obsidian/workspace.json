@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/1.dummy.md",
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "272343dc1b895e0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/1.dummy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/1.dummy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.dummy/1.dummy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,11 +169,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34d785dafd01fa66",
+  "active": "272343dc1b895e0a",
   "lastOpenFiles": [
     "1.dummy/24.03.02 옵시디언 사용하기.md",
-    "2.project/Untitled.md",
+    "Note Name.md",
+    "테스트.md",
     "1.dummy/1.dummy.md",
+    "2.project/Untitled.md",
     "Spaces/Untitled 2.md",
     "Spaces/Untitled.md",
     "Spaces/Untitled 1.md",
@@ -177,7 +184,6 @@
     "hmkh/hmkh.md",
     "hmkh",
     "Spaces/#uyjjj",
-    "무제 파일.md",
     "Spaces/#알고리즘/#알고리즘.md",
     "Spaces/#cc",
     "Spaces/#알고리즘",
