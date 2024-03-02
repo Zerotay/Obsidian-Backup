@@ -24,12 +24,16 @@
             "id": "272343dc1b895e0a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Note Name.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md"
+              }
             }
           },
           {
@@ -169,10 +177,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "272343dc1b895e0a",
+  "active": "34d785dafd01fa66",
   "lastOpenFiles": [
-    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "Note Name.md",
+    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "테스트.md",
     "1.dummy/1.dummy.md",
     "2.project/Untitled.md",
