@@ -11,14 +11,12 @@
             "id": "96be17f59754e38c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1.dummy/Untitled.canvas",
-                "viewState": {
-                  "x": -15,
-                  "y": -125,
-                  "zoom": 0
-                }
+                "file": "2.project/SSAFY 특화 프로젝트/개요.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/Untitled.canvas",
+                "file": "2.project/SSAFY 특화 프로젝트/개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/Untitled.canvas",
+                "file": "2.project/SSAFY 특화 프로젝트/개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/Untitled.canvas"
+                "file": "2.project/SSAFY 특화 프로젝트/개요.md"
               }
             }
           },
@@ -187,14 +185,16 @@
   },
   "active": "21f481a7fb7b9c9c",
   "lastOpenFiles": [
+    "Vault.md",
+    "Spaces/Spaces.md",
+    "1.dummy/Untitled.canvas",
     "2.project/2.project.md",
     "2.project/SSAFY 특화 프로젝트/SSAFY 특화 프로젝트.md",
     "2.project/SSAFY 특화 프로젝트",
-    "2.project/SSAFY 특화 프로젝트.md",
+    "2.project/SSAFY 특화 프로젝트/개요.md",
     "Untitled.md",
     "Note Name.md",
     "테스트.md",
-    "1.dummy/Untitled.canvas",
     "1.dummy/24.03.02 옵시디언 사용하기.md",
     "1.dummy/1.dummy.md",
     "1.dummy/Untitled 2.md",
@@ -206,7 +206,6 @@
     "Spaces/Untitled.md",
     "Spaces/Untitled 1.md",
     "Spaces/Untitled 3.md",
-    "Vault.md",
     "hmkh/hmkh.md",
     "hmkh",
     "Spaces/#uyjjj",
@@ -217,7 +216,6 @@
     "Spaces/#hh",
     "Spaces",
     "1.dummy/무제 파일.md",
-    "Spaces/Spaces.md",
     "Spaces/Home",
     "2024-03-02.md",
     "test.md",
