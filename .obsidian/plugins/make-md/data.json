@@ -52,7 +52,6 @@
     "//1.dummy",
     "//1.dummy",
     "//2.project",
-    "//3.study",
     "//1.dummy",
     "//1.dummy",
     "//1.dummy",
@@ -70,7 +69,8 @@
     "//2.project",
     "//1.dummy",
     "//Spaces",
-    "//1.dummy"
+    "//1.dummy",
+    "//3.study"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

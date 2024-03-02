@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +185,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "96be17f59754e38c",
+  "active": "21f481a7fb7b9c9c",
   "lastOpenFiles": [
+    "2.project/2.project.md",
+    "2.project/SSAFY 특화 프로젝트/SSAFY 특화 프로젝트.md",
+    "2.project/SSAFY 특화 프로젝트",
     "2.project/SSAFY 특화 프로젝트.md",
     "Untitled.md",
     "Note Name.md",
@@ -218,7 +222,6 @@
     "2024-03-02.md",
     "test.md",
     "2.project",
-    "3.study",
     "dummy/2024-03-02 ss.md"
   ]
 }
