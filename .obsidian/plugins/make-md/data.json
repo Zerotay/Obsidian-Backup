@@ -72,9 +72,9 @@
   "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
   "waypoints": [
-    "Spaces/Home",
     "/",
-    "spaces://$tags"
+    "spaces://$tags",
+    "Spaces/Home"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
