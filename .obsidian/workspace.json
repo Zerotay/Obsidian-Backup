@@ -21,6 +21,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "0844464e5eada122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d3535816b337b5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
