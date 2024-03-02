@@ -4,5 +4,6 @@
   "templater-obsidian",
   "make-md",
   "obsidian-outliner",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "recent-files-obsidian"
 ]

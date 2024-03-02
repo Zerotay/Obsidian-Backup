@@ -32,6 +32,7 @@
       {
         "id": "29356300eb115ae4",
         "type": "tabs",
+        "dimension": 76.74418604651163,
         "children": [
           {
             "id": "815f25630ac3c06c",
@@ -74,8 +75,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "3ce20c94d7fde438",
+        "type": "tabs",
+        "dimension": 23.25581395348837,
+        "children": [
+          {
+            "id": "6d5f8348847cebe0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,6 +183,8 @@
   },
   "active": "9783df7b0afec5ed",
   "lastOpenFiles": [
+    "1.dummy/1.dummy.md",
+    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "1.dummy/Untitled 2.md",
     "1.dummy/Untitled.md",
     "1.dummy/Untitled 1.md",
@@ -176,8 +193,6 @@
     "Spaces/#gogo",
     "2.project/Untitled.md",
     "Untitled.md",
-    "1.dummy/1.dummy.md",
-    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "테스트.md",
     "Spaces/Untitled 2.md",
     "Spaces/Untitled.md",
