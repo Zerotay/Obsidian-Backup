@@ -19,7 +19,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": false,
-  "activeView": "spaces://$tags",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -62,9 +62,9 @@
     "//1.dummy",
     "//1.dummy",
     "//1.dummy",
-    "//Spaces",
     "//media",
     "spaces://$tags/spaces://#hh",
+    "//Spaces",
     "//Spaces"
   ],
   "expandFolderOnClick": true,
@@ -90,8 +90,7 @@
   "waypoints": [
     "/",
     "spaces://$tags",
-    "Spaces",
-    "Spaces/Home"
+    "Spaces"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

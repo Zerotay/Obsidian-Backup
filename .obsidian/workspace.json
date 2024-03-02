@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,18 +167,18 @@
   },
   "active": "34d785dafd01fa66",
   "lastOpenFiles": [
-    "무제 파일.md",
     "1.dummy/Untitled.md",
+    "Vault.md",
+    "Spaces/#알고리즘/#알고리즘.md",
+    "무제 파일.md",
     "Spaces/#cc",
     "1.dummy/24.03.02 옵시디언 사용하기.md",
-    "Spaces/#알고리즘/#알고리즘.md",
     "Spaces/#알고리즘",
     "Spaces/#hh/#hh.md",
     "1.dummy/1.dummy.md",
     "Spaces/#hh",
     "Spaces",
     "1.dummy/무제 파일.md",
-    "Vault.md",
     "Spaces/Spaces.md",
     "Spaces/Untitled.md",
     "Spaces/Home",
