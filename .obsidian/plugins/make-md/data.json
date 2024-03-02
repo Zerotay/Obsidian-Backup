@@ -49,6 +49,9 @@
     "//1.dummy",
     "//1.dummy",
     "//1.dummy",
+    "//1.dummy",
+    "//1.dummy",
+    "//media",
     "//1.dummy"
   ],
   "expandFolderOnClick": true,
@@ -74,6 +77,7 @@
   "waypoints": [
     "/",
     "spaces://$tags",
+    "Spaces",
     "Spaces/Home"
   ],
   "spacesUseAlias": false,

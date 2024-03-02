@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/무제 파일.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md"
+                "file": "1.dummy/무제 파일.md"
               }
             }
           },
@@ -168,16 +168,17 @@
   },
   "active": "3d3535816b337b5e",
   "lastOpenFiles": [
+    "Vault.md",
+    "1.dummy/무제 파일.md",
+    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "1.dummy/Untitled.md",
     "Spaces/Spaces.md",
-    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "Spaces/Untitled.md",
     "1.dummy/1.dummy.md",
     "Spaces/Home",
     "Spaces",
     "2024-03-02.md",
     "test.md",
-    "무제 파일.md",
     "2.project",
     "3.study",
     "dummy/2024-03-02 ss.md",
