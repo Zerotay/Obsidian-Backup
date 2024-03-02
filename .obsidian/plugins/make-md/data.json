@@ -65,6 +65,10 @@
     "//media",
     "spaces://$tags/spaces://#hh",
     "//2.project",
+    "//1.dummy",
+    "//1.dummy",
+    "//2.project",
+    "//1.dummy",
     "//Spaces"
   ],
   "expandFolderOnClick": true,
