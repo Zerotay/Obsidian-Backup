@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/1.dummy.md",
+                "file": "1.dummy/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -67,14 +67,15 @@
             }
           },
           {
-            "id": "862100cda33ab092",
+            "id": "d15061444e9d16b5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/1.dummy.md",
+                "file": "1.dummy/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/1.dummy.md",
+                "file": "1.dummy/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/1.dummy.md"
+                "file": "1.dummy/Untitled.md"
               }
             }
           },
@@ -166,16 +167,17 @@
   },
   "active": "34d785dafd01fa66",
   "lastOpenFiles": [
-    "Spaces/#hh/#hh.md",
-    "1.dummy/Untitled.md",
     "1.dummy/24.03.02 옵시디언 사용하기.md",
+    "1.dummy/Untitled.md",
+    "Spaces/#알고리즘",
+    "Spaces/#hh/#hh.md",
+    "1.dummy/1.dummy.md",
     "Spaces/#hh",
     "Spaces",
     "1.dummy/무제 파일.md",
     "Vault.md",
     "Spaces/Spaces.md",
     "Spaces/Untitled.md",
-    "1.dummy/1.dummy.md",
     "Spaces/Home",
     "2024-03-02.md",
     "test.md",

@@ -23,7 +23,7 @@
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
-  "spacesEnabled": false,
+  "spacesEnabled": true,
   "spacesPerformance": false,
   "enableFolderNote": true,
   "folderIndentationLines": true,
@@ -37,9 +37,6 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Spaces",
-    "//templates",
-    "//templates",
     "//media",
     "//1.dummy",
     "//1.dummy",
@@ -65,6 +62,9 @@
     "//1.dummy",
     "//1.dummy",
     "//1.dummy",
+    "//Spaces",
+    "//media",
+    "spaces://$tags/spaces://#hh",
     "//Spaces"
   ],
   "expandFolderOnClick": true,

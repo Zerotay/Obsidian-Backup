@@ -1,8 +1,7 @@
 ---
 _filters: []
 _contexts: []
-_links:
-  - Spaces
+_links: []
 _sort:
   field: rank
   asc: false
