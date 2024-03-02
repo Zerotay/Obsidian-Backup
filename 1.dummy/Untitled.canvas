@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"dd667a16eeef5a16","x":-140,"y":-150,"width":250,"height":50,"type":"text","text":""},
+		{"id":"2a17a0e761a0e78e","x":-200,"y":0,"width":310,"height":300,"type":"file","file":"1.dummy/24.03.02 옵시디언 사용하기.md"}
+	],
+	"edges":[]
+}

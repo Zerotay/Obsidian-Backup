@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2d8a53d78013c89d",
+        "id": "dc19c2163f151330",
         "type": "tabs",
         "children": [
           {
-            "id": "9783df7b0afec5ed",
+            "id": "96be17f59754e38c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "1.dummy"
+                "file": "2.project/SSAFY 특화 프로젝트.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -108,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2.project/SSAFY 특화 프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2.project/SSAFY 특화 프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2.project/SSAFY 특화 프로젝트.md"
+              }
             }
           },
           {
@@ -157,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,19 +182,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9783df7b0afec5ed",
+  "active": "96be17f59754e38c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Note Name.md",
+    "테스트.md",
+    "2.project/SSAFY 특화 프로젝트.md",
+    "1.dummy/Untitled.canvas",
     "1.dummy/24.03.02 옵시디언 사용하기.md",
     "1.dummy/1.dummy.md",
     "1.dummy/Untitled 2.md",
     "1.dummy/Untitled.md",
     "1.dummy/Untitled 1.md",
-    "Note Name.md",
     "Spaces/#gogo/#gogo.md",
     "Spaces/#gogo",
-    "2.project/Untitled.md",
-    "Untitled.md",
-    "테스트.md",
     "Spaces/Untitled 2.md",
     "Spaces/Untitled.md",
     "Spaces/Untitled 1.md",
