@@ -1,0 +1,16 @@
+{
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "vimMode": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "media",
+  "tabSize": 2,
+  "useTab": false,
+  "smartIndentList": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "dummy"
+}
