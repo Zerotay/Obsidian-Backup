@@ -1,7 +1,7 @@
 {
   "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
-  "filePreviewOnHover": false,
+  "filePreviewOnHover": true,
   "flowMenuEnabled": true,
   "markSans": false,
   "blinkEnabled": true,
@@ -23,7 +23,7 @@
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
-  "spacesEnabled": true,
+  "spacesEnabled": false,
   "spacesPerformance": false,
   "enableFolderNote": true,
   "folderIndentationLines": true,
@@ -61,7 +61,11 @@
     "//1.dummy",
     "//media",
     "//1.dummy",
-    "//1.dummy"
+    "//1.dummy",
+    "//1.dummy",
+    "//1.dummy",
+    "//1.dummy",
+    "//Spaces"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -109,7 +113,7 @@
   "enableTagSpaces": true,
   "enableHomeSpace": true,
   "showSpacePinIcon": true,
-  "minimalFix": false,
+  "minimalFix": true,
   "experimental": false,
   "systemName": "Vault"
 }
