@@ -6,4 +6,5 @@ _sort:
   field: rank
   asc: false
   group: false
+tags: 태그
 ---

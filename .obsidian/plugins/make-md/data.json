@@ -23,7 +23,7 @@
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
-  "spacesEnabled": true,
+  "spacesEnabled": false,
   "spacesPerformance": false,
   "enableFolderNote": true,
   "folderIndentationLines": true,
@@ -80,7 +80,9 @@
     "//2.project/2.project/건프라",
     "//2.project/2.project/건프라/2.project/건프라/멀캠 ip 자동화 스크립트",
     "//2.project/2.project/건프라/2.project/건프라/멀캠 ip 자동화 스크립트",
-    "//2.project/2.project/건프라/2.project/건프라/멀캠 ip 자동화 스크립트"
+    "//2.project/2.project/건프라/2.project/건프라/멀캠 ip 자동화 스크립트",
+    "//2.project/2.project/건프라/2.project/건프라/멀캠 ip 자동화 스크립트",
+    "//2.project/2.project/건프라"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
