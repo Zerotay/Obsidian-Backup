@@ -11,8 +11,13 @@
             "id": "6dd3c5f70136f1a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.dummy/24.03.03.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +32,7 @@
       {
         "id": "29356300eb115ae4",
         "type": "tabs",
-        "dimension": 76.74418604651163,
+        "dimension": 64.06976744186046,
         "children": [
           {
             "id": "815f25630ac3c06c",
@@ -67,7 +72,7 @@
       {
         "id": "3ce20c94d7fde438",
         "type": "tabs",
-        "dimension": 23.255813953488367,
+        "dimension": 35.93023255813954,
         "children": [
           {
             "id": "6d5f8348847cebe0",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.dummy/24.03.03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.dummy/24.03.03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.dummy/24.03.03.md"
+              }
             }
           },
           {
