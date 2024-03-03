@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-outliner",
   "obsidian-plugin-toc",
-  "recent-files-obsidian"
+  "recent-files-obsidian",
+  "vim-im-select"
 ]

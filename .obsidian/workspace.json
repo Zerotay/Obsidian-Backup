@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/24.03.03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:vim",
+                "query": "tag:docker-compose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3ce20c94d7fde438",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/24.03.03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
+                "file": "1.dummy/24.03.03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/24.03.02 옵시디언 사용하기.md"
+                "file": "1.dummy/24.03.03.md"
               }
             }
           },
@@ -173,8 +174,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82443e2bf86884ad",
+  "active": "b0ecb1053d5cc1c9",
   "lastOpenFiles": [
+    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "1.dummy/24.03.03.md",
     "2.project/건프라/멀캠 ip 자동화 스크립트/멀캠 ip 자동화 스크립트.md",
     "1.dummy/1.dummy.md",
@@ -183,7 +185,6 @@
     "2.project/2.project.md",
     "1.dummy/Untitled.canvas",
     "1.dummy/Untitled.md",
-    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "2.project/건프라/건프라.md",
     "2.project/건프라/Untitled.canvas",
     "2.project/건프라/멀캠 ip 자동화 스크립트",
