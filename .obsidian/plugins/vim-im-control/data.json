@@ -6,7 +6,7 @@
     "cmdGetCurrentIM": "im-select"
   },
   "windows": {
-    "pathToIMControl": "C:\\\\Users\\\\SSAFY\\\\Documents\\\\Obsidian",
+    "pathToIMControl": "C:\\Users\\SSAFY\\Documents\\Obsidian",
     "cmdOnInsertLeave": "im-select.exe 1033",
     "cmdOnInsertEnter": "im-select.exe {{im}}",
     "cmdGetCurrentIM": "im-select.exe"
