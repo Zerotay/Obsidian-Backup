@@ -7,7 +7,7 @@
   },
   "windows": {
     "pathToIMControl": "C:\\Users\\SSAFY\\Documents\\Obsidian",
-    "cmdOnInsertLeave": "im-select.exe 1033",
+    "cmdOnInsertLeave": "im-select.exe 1042",
     "cmdOnInsertEnter": "im-select.exe {{im}}",
     "cmdGetCurrentIM": "im-select.exe"
   },
