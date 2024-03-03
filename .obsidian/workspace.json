@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a94ba23c213eb8e5",
+        "id": "5f04a9621e2e8c94",
         "type": "tabs",
         "children": [
           {
-            "id": "6d81188f5ec9422e",
+            "id": "82443e2bf86884ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/Untitled.md",
+                "file": "1.dummy/24.03.03.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "85aece85a6528f3f",
+            "id": "ae15f2f0cdbaea92",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/Untitled.md",
+                "file": "1.dummy/24.03.03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/Untitled.md",
+                "file": "1.dummy/24.03.03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/Untitled.md"
+                "file": "1.dummy/24.03.03.md"
               }
             }
           },
@@ -181,7 +181,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d81188f5ec9422e",
+  "active": "82443e2bf86884ad",
   "lastOpenFiles": [
     "1.dummy/24.03.02 옵시디언 사용하기.md",
     "1.dummy/24.03.03.md",
