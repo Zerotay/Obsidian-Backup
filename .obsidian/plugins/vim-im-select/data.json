@@ -2,7 +2,7 @@
   "defaultIM": "",
   "obtainCmd": "",
   "switchCmd": "",
-  "windowsDefaultIM": "1033",
+  "windowsDefaultIM": "1042",
   "windowsObtainCmd": "C:\\Users\\SSAFY\\Documents\\Obsidian\\im-select.exe",
   "windowsSwitchCmd": "C:\\Users\\SSAFY\\Documents\\Obsidian\\im-select.exe {im}"
 }
