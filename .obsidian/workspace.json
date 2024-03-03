@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/24.03.03.md",
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#태그",
+                "query": "tag:vim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/24.03.03.md",
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/24.03.03.md",
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/24.03.03.md"
+                "file": "1.dummy/24.03.02 옵시디언 사용하기.md"
               }
             }
           },
@@ -175,11 +175,11 @@
   },
   "active": "82443e2bf86884ad",
   "lastOpenFiles": [
+    "1.dummy/24.03.03.md",
     "2.project/건프라/멀캠 ip 자동화 스크립트/멀캠 ip 자동화 스크립트.md",
     "1.dummy/1.dummy.md",
     "3.study/VIM",
     "2.project/건프라/멀캠 ip 자동화 스크립트/Untitled.md",
-    "1.dummy/24.03.03.md",
     "2.project/2.project.md",
     "1.dummy/Untitled.canvas",
     "1.dummy/Untitled.md",
