@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/24.03.04.md",
+                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/24.03.04.md",
+                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/24.03.04.md",
+                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/24.03.04.md"
+                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "6dd3c5f70136f1a5",
   "lastOpenFiles": [
+    "1.dummy/24.03.04 기획에 하루 쓰기.md",
     "1.dummy/24.03.03 vim 하드...md",
-    "1.dummy/24.03.04.md",
     "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "3.study/VIM/VIM 개요.md",
     "media/Pasted image 20240304092119.png",
