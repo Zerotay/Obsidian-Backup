@@ -11,13 +11,8 @@
             "id": "6dd3c5f70136f1a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,8 +166,8 @@
   },
   "active": "6dd3c5f70136f1a5",
   "lastOpenFiles": [
-    "3.study/VIM/VIM 개요.md",
     "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
+    "3.study/VIM/VIM 개요.md",
     "1.dummy/24.03.04.md",
     "media/Pasted image 20240304092119.png",
     "media/Pasted image 20240304090754.png",
