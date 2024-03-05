@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/VIM/VIM 개요.md",
+                "file": "3.study/Git/Git 개요.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/VIM/VIM 개요.md",
+                "file": "3.study/Git/Git 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/VIM/VIM 개요.md",
+                "file": "3.study/Git/Git 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/VIM/VIM 개요.md"
+                "file": "3.study/Git/Git 개요.md"
               }
             }
           },
@@ -189,11 +189,14 @@
   },
   "active": "6dd3c5f70136f1a5",
   "lastOpenFiles": [
+    "Spaces/Spaces.md",
+    "3.study/Git/Git 개요.md",
+    "3.study/VIM/VIM 개요.md",
+    "3.study/Git",
     "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "3.study/VIM/VIM 설정/VIM colorscheme.md",
     "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
     "3.study/VIM/VIM 설정",
-    "3.study/VIM/VIM 개요.md",
     "media/Pasted image 20240306000534.png",
     "media/Pasted image 20240306000445.png",
     "media/Pasted image 20240306000020.png",
@@ -224,7 +227,6 @@
     "2.project/SSAFY 특화 프로젝트/개요.md",
     "2.project/Untitled.md",
     "Vault.md",
-    "Spaces/Spaces.md",
     "2.project/SSAFY 특화 프로젝트/SSAFY 특화 프로젝트.md",
     "2.project/SSAFY 특화 프로젝트",
     "Untitled.md",
@@ -234,7 +236,6 @@
     "Spaces/#gogo/#gogo.md",
     "Spaces/#gogo",
     "Spaces/Untitled 2.md",
-    "hmkh",
-    "Spaces/#uyjjj"
+    "hmkh"
   ]
 }
