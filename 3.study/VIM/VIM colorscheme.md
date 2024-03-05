@@ -18,4 +18,7 @@ https://vimcolorschemes.com/page/
 	- 햐.. 이건 애매하다. 괜찮을 듯 아닌 듯
 4. Relaxed-Green ![[Pasted image 20240305232948.png]]
 	- 지금까지 본 것 중에서는 가장 괜찮다.
-5. 
+5. briofita_vim ![[Pasted image 20240305233241.png]]
+	- 이건 전체적인 색은 좋다.
+	- 다만 아쉬운 건 프레임 색이 갈색이라는 것 정도.
+6. 
