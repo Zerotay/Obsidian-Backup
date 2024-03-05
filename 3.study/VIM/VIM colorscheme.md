@@ -24,3 +24,6 @@ https://vimcolorschemes.com/page/
 6. vim-tango ![[Pasted image 20240305233553.png]]
 	- 와 이것도 좋다.
 7. nightvision-nvim ![[Pasted image 20240305233955.png]]
+# 문제
+nightvision이 너무 맘에 들어서 적용을 하려고 봤는데 왠걸, 그냥 내장되어 있는 것은 아닌 모양이었다. 이를 직접 설치하기에 앞서 기본적으로 적용된 스키마는 무엇이 있는지, 어떻게 설치하는지 알아볼 필요가 있다고 판단했다.
+https://phoenixnap.com/kb/vim-color-schemes
