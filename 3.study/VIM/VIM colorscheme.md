@@ -10,3 +10,8 @@ https://vimcolorschemes.com/page/
 - 주석이 가시적으로 볼 수 있는 수준이어야 함
 
 나는 초록색을 좋아하기에 몇 가지 후보군을 물색했다.
+1. reloaded.vim  ![[Pasted image 20240305232247.png]]
+	- 이건 조금 쉽지 않은 색
+2. greenwint ![[Pasted image 20240305232534.png]]
+	- 이건 꽤 괜찮지만, 검은 색으로 시작이 들어가서 직관적이지는 않다.
+3. 
