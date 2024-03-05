@@ -29,6 +29,10 @@ https://vimcolorschemes.com/page/
 	- 초록색이 다채롭게 들어가서 각각의 구별이 가능해야 하는데 그 조건을 잘 만족한다
 	- 초록색이 많다
 	- 이름도 맘에 든다 굳
+# 결과
+
+![[Pasted image 20240306000445.png]]
+Benefit!!
 # 기본 스키마 설정
 nightvision이 너무 맘에 들어서 적용을 하려고 봤는데 왠걸, 그냥 내장되어 있는 것은 아닌 모양이었다. 이를 직접 설치하기에 앞서 기본적으로 적용된 스키마는 무엇이 있는지, 어떻게 설치하는지 알아볼 필요가 있다고 판단했다.
 https://phoenixnap.com/kb/vim-color-schemes
@@ -40,5 +44,4 @@ https://phoenixnap.com/kb/vim-color-schemes
 ... 생각보다 굉장히 적다.
 # 커스텀 스키마 설정
 커스텀 스키마를 적용하고 싶다면 직접 다운로드를 하면 된다. 
-홈 디렉터리에서 `.vim/colors`에 다운 받은 스키마를 적용하면 완료!
-```
+홈 디렉터리에서 `.vim/colors`에 다운 받은 스키마를 적용하면 완료!![[Pasted image 20240306000534.png]]
