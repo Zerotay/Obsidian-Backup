@@ -14,4 +14,6 @@ https://vimcolorschemes.com/page/
 	- 이건 조금 쉽지 않은 색
 2. greenwint ![[Pasted image 20240305232534.png]]
 	- 이건 꽤 괜찮지만, 검은 색으로 시작이 들어가서 직관적이지는 않다.
-3. 
+3. phosphor ![[Pasted image 20240305232743.png]]
+	- 햐.. 이건 애매하다. 괜찮을 듯 아닌 듯
+4. 
