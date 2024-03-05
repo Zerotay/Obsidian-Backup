@@ -11,16 +11,25 @@
             "id": "6dd3c5f70136f1a5",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b95d219a8e3fb58",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/24.03.05.md",
+                "file": "3.study/VIM/VIM colorscheme.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:docker-compose",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "904ef35e0f839809",
@@ -103,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/24.03.05.md",
+                "file": "3.study/VIM/VIM colorscheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/24.03.05.md",
+                "file": "3.study/VIM/VIM colorscheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/24.03.05.md"
+                "file": "3.study/VIM/VIM colorscheme.md"
               }
             }
           },
@@ -175,13 +183,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6dd3c5f70136f1a5",
+  "active": "7b95d219a8e3fb58",
   "lastOpenFiles": [
+    "3.study/VIM/VIM 개요.md",
+    "3.study/VIM/VIM colorscheme.md",
     "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "1.dummy/24.03.05.md",
     "1.dummy/24.03.04 기획에 하루 쓰기.md",
     "1.dummy/24.03.03 vim 하드...md",
-    "3.study/VIM/VIM 개요.md",
     "media/Pasted image 20240304092119.png",
     "media/Pasted image 20240304090754.png",
     "2.project/VIM",
@@ -218,7 +227,6 @@
     "Spaces/Untitled 2.md",
     "Spaces/Untitled.md",
     "Spaces/Untitled 1.md",
-    "Spaces/Untitled 3.md",
     "hmkh",
     "Spaces/#uyjjj",
     "Spaces/#cc"
