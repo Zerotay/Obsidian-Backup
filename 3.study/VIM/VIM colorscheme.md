@@ -21,4 +21,6 @@ https://vimcolorschemes.com/page/
 5. briofita_vim ![[Pasted image 20240305233241.png]]
 	- 이건 전체적인 색은 좋다.
 	- 다만 아쉬운 건 프레임 색이 갈색이라는 것 정도.
-6. 
+6. vim-tango ![[Pasted image 20240305233553.png]]
+	- 와 이것도 좋다.
+7. 
