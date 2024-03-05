@@ -1,3 +1,9 @@
 # VIM 색깔 바꾸기
 모처럼 VIM을 사용하는데 눈에 보기 좋고 맘에 드는 색 테마를 이용하고 싶다면 colorsheme을 설정해보자.
+![[Pasted image 20240305231633.png]]
 https://vimcolorschemes.com/page/
+다양한 색깔과 테마가 존재한다.
+나는 초록색을 좋아하기에 몇 가지 후보군을 물색했다.
+내가 고르는 기본적인 조건은 다음과 같다.
+- 다크 테마
+- iidlkfsdfdfsdfㅇㅇㅇㅇㅇj
