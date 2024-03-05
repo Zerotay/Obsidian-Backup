@@ -11,8 +11,13 @@
             "id": "6dd3c5f70136f1a5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3.study/VIM/VIM 개요.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -21,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/VIM/VIM 설정/VIM colorscheme.md",
-                "mode": "preview",
+                "file": "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/VIM/VIM 설정/VIM colorscheme.md",
+                "file": "3.study/VIM/VIM 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/VIM/VIM 설정/VIM colorscheme.md",
+                "file": "3.study/VIM/VIM 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/VIM/VIM 설정/VIM colorscheme.md"
+                "file": "3.study/VIM/VIM 개요.md"
               }
             }
           },
@@ -183,11 +187,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7b95d219a8e3fb58",
+  "active": "6dd3c5f70136f1a5",
   "lastOpenFiles": [
-    "3.study/VIM/VIM 설정/스키마 설정.md",
-    "3.study/VIM/VIM 설정",
+    "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "3.study/VIM/VIM 설정/VIM colorscheme.md",
+    "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
+    "3.study/VIM/VIM 설정",
     "3.study/VIM/VIM 개요.md",
     "media/Pasted image 20240306000534.png",
     "media/Pasted image 20240306000445.png",
@@ -199,7 +204,6 @@
     "media/Pasted image 20240305232948.png",
     "media/Pasted image 20240305232743.png",
     "media/Pasted image 20240305232534.png",
-    "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "1.dummy/24.03.05.md",
     "1.dummy/24.03.04 기획에 하루 쓰기.md",
     "1.dummy/24.03.03 vim 하드...md",
