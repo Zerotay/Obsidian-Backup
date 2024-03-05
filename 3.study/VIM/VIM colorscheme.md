@@ -23,4 +23,4 @@ https://vimcolorschemes.com/page/
 	- 다만 아쉬운 건 프레임 색이 갈색이라는 것 정도.
 6. vim-tango ![[Pasted image 20240305233553.png]]
 	- 와 이것도 좋다.
-7. 
+7. nightvision-nvim ![[Pasted image 20240305233955.png]]
