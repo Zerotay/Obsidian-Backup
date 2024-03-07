@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
+                "file": "1.dummy/24.03.07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "904ef35e0f839809",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
+                "file": "1.dummy/24.03.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
+                "file": "1.dummy/24.03.07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md"
+                "file": "1.dummy/24.03.07.md"
               }
             }
           },
@@ -176,18 +177,18 @@
   },
   "active": "1283ff233748f288",
   "lastOpenFiles": [
+    "1.dummy/24.03.06.md",
+    "1.dummy/24.03.05 기획 완.md",
+    "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "3.study/VIM/VIM 개요.md",
     "1.dummy/24.03.07.md",
-    "1.dummy/24.03.06.md",
     "2.project/SSAFY 특화 프로젝트/SSAFY 특화 프로젝트.md",
     "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
     "3.study/VIM/VIM 설정/VIM colorscheme.md",
-    "1.dummy/24.03.05 기획 완.md",
     "1.dummy/24.03.04 기획에 하루 쓰기.md",
     "3.study/Git/Git 개요.md",
     "Spaces/Spaces.md",
     "3.study/Git",
-    "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "3.study/VIM/VIM 설정",
     "media/Pasted image 20240306000534.png",
     "media/Pasted image 20240306000445.png",
