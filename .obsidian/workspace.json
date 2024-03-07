@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "904ef35e0f839809",
@@ -177,12 +176,14 @@
   },
   "active": "1283ff233748f288",
   "lastOpenFiles": [
+    "3.study/자동화&편리성/PowerToys.md",
+    "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
+    "3.study/자동화&편리성",
+    "1.dummy/24.03.07.md",
     "media/Pasted image 20240307152053.png",
     "1.dummy/24.03.06.md",
     "1.dummy/24.03.05 기획 완.md",
-    "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "3.study/VIM/VIM 개요.md",
-    "1.dummy/24.03.07.md",
     "2.project/SSAFY 특화 프로젝트/SSAFY 특화 프로젝트.md",
     "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
     "3.study/VIM/VIM 설정/VIM colorscheme.md",
@@ -200,7 +201,6 @@
     "media/Pasted image 20240305233241.png",
     "media/Pasted image 20240305232948.png",
     "media/Pasted image 20240305232743.png",
-    "media/Pasted image 20240305232534.png",
     "1.dummy/24.03.03 vim 하드...md",
     "2.project/VIM",
     "im-select.exe",
@@ -223,7 +223,6 @@
     "Untitled.md",
     "Note Name.md",
     "테스트.md",
-    "Spaces/#gogo",
-    "hmkh"
+    "Spaces/#gogo"
   ]
 }
