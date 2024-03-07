@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/24.03.06.md",
+                "file": "1.dummy/24.03.07.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "904ef35e0f839809",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/24.03.06.md",
+                "file": "1.dummy/24.03.07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/24.03.06.md",
+                "file": "1.dummy/24.03.07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/24.03.06.md"
+                "file": "1.dummy/24.03.07.md"
               }
             }
           },
@@ -177,9 +176,10 @@
   },
   "active": "6dd3c5f70136f1a5",
   "lastOpenFiles": [
+    "1.dummy/24.03.06.md",
+    "1.dummy/24.03.07.md",
     "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
     "3.study/VIM/VIM 설정/VIM colorscheme.md",
-    "1.dummy/24.03.06.md",
     "1.dummy/24.03.05 기획 완.md",
     "1.dummy/24.03.04 기획에 하루 쓰기.md",
     "3.study/Git/Git 개요.md",
@@ -222,7 +222,6 @@
     "Note Name.md",
     "테스트.md",
     "1.dummy/Untitled 2.md",
-    "Spaces/#gogo/#gogo.md",
     "Spaces/#gogo",
     "hmkh"
   ]
