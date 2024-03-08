@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "공부하고 준비할 것",
+      "path": "2.project/공부하고 준비할 것.md"
+    },
+    {
       "basename": "sudo 없이 명령 실행하기",
       "path": "3.study/Linux/sudo 없이 명령 실행하기.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "24.03.08",
       "path": "1.dummy/24.03.08.md"
-    },
-    {
-      "basename": "공부하고 준비할 것",
-      "path": "2.project/공부하고 준비할 것.md"
     },
     {
       "basename": "리눅스 CLI 단축키",
