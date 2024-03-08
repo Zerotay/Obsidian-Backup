@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "개요",
+      "path": "2.project/SSAFY 특화 프로젝트/개요.md"
+    },
+    {
       "basename": "포트정보",
       "path": "2.project/SSAFY 특화 프로젝트/포트정보.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Untitled",
       "path": "2.project/건프라/멀캠 ip 자동화 스크립트/Untitled.md"
-    },
-    {
-      "basename": "개요",
-      "path": "2.project/SSAFY 특화 프로젝트/개요.md"
     }
   ],
   "omittedPaths": [],
