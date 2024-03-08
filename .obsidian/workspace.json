@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.project/공부하고 준비할 것.md",
+                "file": "3.study/Linux/sudo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.project/공부하고 준비할 것.md",
+                "file": "3.study/Linux/sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.project/공부하고 준비할 것.md",
+                "file": "3.study/Linux/sudo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.project/공부하고 준비할 것.md"
+                "file": "3.study/Linux/sudo.md"
               }
             }
           },
@@ -176,12 +176,13 @@
   },
   "active": "1283ff233748f288",
   "lastOpenFiles": [
-    "3.study/Linux/sudo 없이 명령 실행하기.md",
     "3.study/Linux/sudo 비밀번호 없이 접속하기.md",
+    "3.study/Linux/sudo.md",
+    "3.study/Linux/sudo 없이 명령 실행하기.md",
+    "2.project/공부하고 준비할 것.md",
     "2.project/SSAFY 특화 프로젝트/개요.md",
     "2.project/SSAFY 특화 프로젝트/포트정보.md",
     "1.dummy/24.03.08.md",
-    "2.project/공부하고 준비할 것.md",
     "3.study/Linux/리눅스 CLI 단축키.md",
     "3.study/Linux",
     "1.dummy/24.03.07.md",
@@ -220,7 +221,6 @@
     "2.project/건프라/멀캠 ip 자동화 스크립트/Untitled.md",
     "2.project/2.project.md",
     "1.dummy/Untitled.canvas",
-    "1.dummy/Untitled.md",
     "2.project/건프라/Untitled.canvas",
     "2.project/건프라/멀캠 ip 자동화 스크립트",
     "2.project/건프라",
