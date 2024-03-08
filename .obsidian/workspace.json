@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "파일 생성 시 기본 권한 설정.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "파일 생성 시 기본 권한 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "파일 생성 시 기본 권한 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "파일 생성 시 기본 권한 설정.md"
               }
             }
           },
@@ -191,7 +191,7 @@
   "active": "7afed17c22a075ae",
   "lastOpenFiles": [
     "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
-    "무제 파일.md",
+    "파일 생성 시 기본 권한 설정.md",
     "3.study/Git/github ssh timed out.md",
     "media/Pasted image 20240308131114.png",
     "3.study/Linux/sudo.md",
