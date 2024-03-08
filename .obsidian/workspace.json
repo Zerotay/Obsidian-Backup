@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/24.03.08.md",
+                "file": "3.study/Linux/리눅스 CLI 단축키.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/24.03.08.md",
+                "file": "3.study/Linux/리눅스 CLI 단축키.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/24.03.08.md",
+                "file": "3.study/Linux/리눅스 CLI 단축키.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/24.03.08.md"
+                "file": "3.study/Linux/리눅스 CLI 단축키.md"
               }
             }
           },
@@ -176,8 +176,10 @@
   },
   "active": "1283ff233748f288",
   "lastOpenFiles": [
-    "1.dummy/24.03.07.md",
     "1.dummy/24.03.08.md",
+    "3.study/Linux/리눅스 CLI 단축키.md",
+    "3.study/Linux",
+    "1.dummy/24.03.07.md",
     "3.study/VIM/VIM 설정/VIM colorscheme.md",
     "1.dummy/무제 파일.canvas",
     "1.dummy/24.03.06.md",
@@ -222,8 +224,6 @@
     "2.project/Untitled.md",
     "Vault.md",
     "2.project/SSAFY 특화 프로젝트",
-    "Untitled.md",
-    "Note Name.md",
-    "Spaces/#gogo"
+    "Untitled.md"
   ]
 }
