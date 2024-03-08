@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/Git/github ssh timed out.md",
+                "file": "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7afed17c22a075ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/Git/github ssh timed out.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/Git/github ssh timed out.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/Git/github ssh timed out.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -174,11 +188,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1283ff233748f288",
+  "active": "7afed17c22a075ae",
   "lastOpenFiles": [
+    "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
+    "무제 파일.md",
+    "3.study/Git/github ssh timed out.md",
     "media/Pasted image 20240308131114.png",
     "3.study/Linux/sudo.md",
-    "3.study/Git/github ssh timed out.md",
     "3.study/Linux/sudo 비밀번호 없이 접속하기.md",
     "3.study/Linux/sudo 없이 명령 실행하기.md",
     "2.project/공부하고 준비할 것.md",
@@ -212,13 +228,11 @@
     "media/Pasted image 20240305233553.png",
     "media/Pasted image 20240305233241.png",
     "media/Pasted image 20240305232948.png",
-    "media/Pasted image 20240305232743.png",
     "1.dummy/24.03.03 vim 하드...md",
     "2.project/VIM",
     "im-select.exe",
     "1.dummy/24.03.02 옵시디언 사용하기.md",
     "2.project/건프라/멀캠 ip 자동화 스크립트/멀캠 ip 자동화 스크립트.md",
-    "1.dummy/1.dummy.md",
     "3.study/VIM",
     "1.dummy/Untitled.canvas",
     "2.project/건프라/Untitled.canvas",
