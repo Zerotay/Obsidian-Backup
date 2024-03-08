@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "파일 내용 읽기.md",
+                "file": "1.dummy/24.03.08.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파일 내용 읽기.md",
+                "file": "1.dummy/24.03.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파일 내용 읽기.md",
+                "file": "1.dummy/24.03.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "파일 내용 읽기.md"
+                "file": "1.dummy/24.03.08.md"
               }
             }
           },
@@ -204,8 +204,9 @@
   "active": "6caf68e31fdd0b05",
   "lastOpenFiles": [
     "파일 생성 시 기본 권한 설정.md",
-    "파일 내용 읽기.md",
     "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
+    "1.dummy/24.03.08.md",
+    "파일 내용 읽기.md",
     "3.study/Git/github ssh timed out.md",
     "media/Pasted image 20240308131114.png",
     "3.study/Linux/sudo.md",
@@ -214,7 +215,6 @@
     "2.project/공부하고 준비할 것.md",
     "2.project/SSAFY 특화 프로젝트/개요.md",
     "2.project/SSAFY 특화 프로젝트/포트정보.md",
-    "1.dummy/24.03.08.md",
     "3.study/Linux/리눅스 CLI 단축키.md",
     "3.study/Linux",
     "1.dummy/24.03.07.md",
