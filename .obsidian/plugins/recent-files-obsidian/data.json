@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "VimAwesome",
-      "path": "3.study/VIM/플러그인/VimAwesome.md"
+      "basename": "vimsurround",
+      "path": "3.study/VIM/플러그인/vimsurround.md"
     },
     {
       "basename": "플러그인 적용법",
       "path": "3.study/VIM/플러그인/플러그인 적용법.md"
+    },
+    {
+      "basename": "VimAwesome",
+      "path": "3.study/VIM/플러그인/VimAwesome.md"
+    },
+    {
+      "basename": "VIM 개요",
+      "path": "3.study/VIM/VIM 개요.md"
     },
     {
       "basename": "24.03.09",
@@ -95,10 +103,6 @@
     {
       "basename": "원하는 테마 찾기",
       "path": "3.study/VIM/VIM 설정/원하는 테마 찾기.md"
-    },
-    {
-      "basename": "VIM 개요",
-      "path": "3.study/VIM/VIM 개요.md"
     },
     {
       "basename": "Pasted image 20240306000020",
