@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/VIM/플러그인/플러그인 적용법.md",
+                "file": "3.study/VIM/플러그인/VimAwesome.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/VIM/플러그인/플러그인 적용법.md",
+                "file": "3.study/VIM/플러그인/VimAwesome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/VIM/플러그인/플러그인 적용법.md",
+                "file": "3.study/VIM/플러그인/VimAwesome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/VIM/플러그인/플러그인 적용법.md"
+                "file": "3.study/VIM/플러그인/VimAwesome.md"
               }
             }
           },
@@ -189,13 +189,17 @@
   },
   "active": "7afed17c22a075ae",
   "lastOpenFiles": [
+    "media/Pasted image 20240310005411.png",
+    "3.study/VIM/플러그인/플러그인 적용법.md",
+    "3.study/VIM/플러그인/VimAwesome.md",
+    "media/Pasted image 20240310004926.png",
+    "media/Pasted image 20240310004823.png",
     "media/Pasted image 20240310004711.png",
     "media/Pasted image 20240310004509.png",
     "media/Pasted image 20240310003918.png",
     "1.dummy/24.03.09.md",
     "media/Pasted image 20240310003527.png",
     "1.dummy/24.03.08.md",
-    "3.study/VIM/플러그인/플러그인 적용법.md",
     "surround.md",
     "3.study/VIM/플러그인",
     "1.dummy/24.03.07.md",
@@ -222,16 +226,12 @@
     "1.dummy/무제 파일.canvas",
     "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
     "3.study/VIM/VIM 개요.md",
-    "3.study/자동화&편리성/PowerToys.md",
     "3.study/자동화&편리성",
     "media/Pasted image 20240307152053.png",
     "3.study/Git",
     "3.study/VIM/VIM 설정",
     "media/Pasted image 20240306000534.png",
     "media/Pasted image 20240306000445.png",
-    "media/Pasted image 20240306000020.png",
-    "media/Pasted image 20240305234717.png",
-    "media/Pasted image 20240305233955.png",
     "2.project/VIM",
     "im-select.exe",
     "3.study/VIM",
