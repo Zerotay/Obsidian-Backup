@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/Git/github ssh timed out.md",
+                "file": "1.dummy/24.03.08.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/Git/github ssh timed out.md",
+                "file": "1.dummy/24.03.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/Git/github ssh timed out.md",
+                "file": "1.dummy/24.03.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/Git/github ssh timed out.md"
+                "file": "1.dummy/24.03.08.md"
               }
             }
           },
@@ -189,34 +189,36 @@
   },
   "active": "7afed17c22a075ae",
   "lastOpenFiles": [
-    "파일 생성 시 기본 권한 설정.md",
+    "1.dummy/24.03.07.md",
+    "1.dummy/24.03.06.md",
+    "1.dummy/24.03.05 기획 완.md",
+    "1.dummy/24.03.04 기획에 하루 쓰기.md",
+    "1.dummy/24.03.03 vim 하드...md",
+    "3.study/Linux/명령어/sudo.md",
+    "3.study/Linux/명령어/sudo 없이 명령 실행하기.md",
+    "3.study/Linux/명령어/sudo 비밀번호 없이 접속하기.md",
+    "3.study/Linux/명령어/umask - 파일 생성 시 기본 권한 설정.md",
+    "3.study/Linux/파일 내용 읽기.md",
+    "3.study/Linux/명령어",
+    "3.study/Git/github ssh timed out.md",
     "1.dummy/24.03.02 옵시디언 사용하기.md",
     "1.dummy/24.03.08.md",
     "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
-    "파일 내용 읽기.md",
-    "3.study/Git/github ssh timed out.md",
     "media/Pasted image 20240308131114.png",
-    "3.study/Linux/sudo.md",
-    "3.study/Linux/sudo 비밀번호 없이 접속하기.md",
-    "3.study/Linux/sudo 없이 명령 실행하기.md",
     "2.project/공부하고 준비할 것.md",
     "2.project/SSAFY 특화 프로젝트/개요.md",
     "2.project/SSAFY 특화 프로젝트/포트정보.md",
     "3.study/Linux/리눅스 CLI 단축키.md",
     "3.study/Linux",
-    "1.dummy/24.03.07.md",
     "3.study/VIM/VIM 설정/VIM colorscheme.md",
     "1.dummy/무제 파일.canvas",
-    "1.dummy/24.03.06.md",
     "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
     "3.study/VIM/VIM 개요.md",
     "3.study/자동화&편리성/PowerToys.md",
     "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md",
     "3.study/자동화&편리성",
     "media/Pasted image 20240307152053.png",
-    "1.dummy/24.03.05 기획 완.md",
     "2.project/SSAFY 특화 프로젝트/SSAFY 특화 프로젝트.md",
-    "1.dummy/24.03.04 기획에 하루 쓰기.md",
     "3.study/Git/Git 개요.md",
     "Spaces/Spaces.md",
     "3.study/Git",
@@ -229,14 +231,12 @@
     "media/Pasted image 20240305233553.png",
     "media/Pasted image 20240305233241.png",
     "media/Pasted image 20240305232948.png",
-    "1.dummy/24.03.03 vim 하드...md",
     "2.project/VIM",
     "im-select.exe",
     "3.study/VIM",
     "1.dummy/Untitled.canvas",
     "2.project/건프라/Untitled.canvas",
     "2.project/건프라/멀캠 ip 자동화 스크립트",
-    "2.project/건프라",
-    "2.project/SSAFY 특화 프로젝트"
+    "2.project/건프라"
   ]
 }
