@@ -5,12 +5,16 @@
       "path": "3.study/VIM/플러그인/플러그인 적용법.md"
     },
     {
-      "basename": "surround",
-      "path": "surround.md"
+      "basename": "24.03.09",
+      "path": "1.dummy/24.03.09.md"
     },
     {
       "basename": "24.03.08",
       "path": "1.dummy/24.03.08.md"
+    },
+    {
+      "basename": "surround",
+      "path": "surround.md"
     },
     {
       "basename": "24.03.07",
