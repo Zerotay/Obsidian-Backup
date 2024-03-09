@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "24.03.08",
-      "path": "1.dummy/24.03.08.md"
+      "basename": "github ssh timed out",
+      "path": "3.study/Git/github ssh timed out.md"
     },
     {
       "basename": "파일 생성 시 기본 권한 설정",
       "path": "파일 생성 시 기본 권한 설정.md"
+    },
+    {
+      "basename": "24.03.02 옵시디언 사용하기",
+      "path": "1.dummy/24.03.02 옵시디언 사용하기.md"
+    },
+    {
+      "basename": "24.03.08",
+      "path": "1.dummy/24.03.08.md"
     },
     {
       "basename": "commit 시 유저, 이메일 정보 등록",
@@ -15,10 +23,6 @@
     {
       "basename": "파일 내용 읽기",
       "path": "파일 내용 읽기.md"
-    },
-    {
-      "basename": "github ssh timed out",
-      "path": "3.study/Git/github ssh timed out.md"
     },
     {
       "basename": "sudo",
@@ -95,10 +99,6 @@
     {
       "basename": "24.03.03 vim 하드..",
       "path": "1.dummy/24.03.03 vim 하드...md"
-    },
-    {
-      "basename": "24.03.02 옵시디언 사용하기",
-      "path": "1.dummy/24.03.02 옵시디언 사용하기.md"
     },
     {
       "basename": "멀캠 ip 자동화 스크립트",
