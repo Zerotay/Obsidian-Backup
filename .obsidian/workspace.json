@@ -24,13 +24,8 @@
             "id": "7afed17c22a075ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.study/VIM/플러그인/surround.vim.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -116,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/VIM/플러그인/surround.vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/VIM/플러그인/surround.vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +148,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.study/VIM/플러그인/surround.vim.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,11 +160,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +184,7 @@
     "3.study/VIM/플러그인/플러그인 적용법.md",
     "3.study/VIM/플러그인/surround.vim.md",
     "3.study/VIM/플러그인/VimAwesome.md",
+    "surround.md",
     "3.study/VIM/VIM 개요.md",
     "media/Pasted image 20240310005601.png",
     "media/Pasted image 20240310005411.png",
@@ -203,7 +196,6 @@
     "1.dummy/24.03.09.md",
     "media/Pasted image 20240310003527.png",
     "1.dummy/24.03.08.md",
-    "surround.md",
     "3.study/VIM/플러그인",
     "1.dummy/24.03.07.md",
     "1.dummy/24.03.06.md",

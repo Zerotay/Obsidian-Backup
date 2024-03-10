@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "surround.vim",
-      "path": "3.study/VIM/플러그인/surround.vim.md"
-    },
-    {
       "basename": "플러그인 적용법",
       "path": "3.study/VIM/플러그인/플러그인 적용법.md"
+    },
+    {
+      "basename": "surround.vim",
+      "path": "3.study/VIM/플러그인/surround.vim.md"
     },
     {
       "basename": "VimAwesome",
@@ -23,10 +23,6 @@
     {
       "basename": "24.03.08",
       "path": "1.dummy/24.03.08.md"
-    },
-    {
-      "basename": "surround",
-      "path": "surround.md"
     },
     {
       "basename": "24.03.07",
