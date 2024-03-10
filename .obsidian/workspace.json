@@ -24,12 +24,30 @@
             "id": "7afed17c22a075ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05e9bb76fdfc3ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.dummy/03.March/24.03.10.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.dummy/03.March/24.03.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.dummy/03.March/24.03.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.dummy/03.March/24.03.10.md"
+              }
             }
           },
           {
@@ -179,10 +201,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7afed17c22a075ae",
+  "active": "05e9bb76fdfc3ce7",
   "lastOpenFiles": [
-    "3.study/VIM/플러그인/플러그인 적용법.md",
+    "media/Pasted image 20240310202618.png",
+    "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
+    "1.dummy/03.March/24.03.10.md",
+    "4.archive/2024",
+    "4.archive",
+    "1.dummy/03.March",
+    "3.study/Docker/도커파일 버전 관리.md",
+    "3.study/Docker/무제 파일.md",
+    "3.study/Docker-Compose",
+    "1.dummy/03.March/24.03.09.md",
     "3.study/VIM/플러그인/surround.vim.md",
+    "3.study/Docker",
+    "3.study/VIM/플러그인/플러그인 적용법.md",
     "3.study/VIM/플러그인/VimAwesome.md",
     "surround.md",
     "3.study/VIM/VIM 개요.md",
@@ -193,15 +226,14 @@
     "media/Pasted image 20240310004711.png",
     "media/Pasted image 20240310004509.png",
     "media/Pasted image 20240310003918.png",
-    "1.dummy/24.03.09.md",
     "media/Pasted image 20240310003527.png",
-    "1.dummy/24.03.08.md",
+    "1.dummy/03.March/24.03.08.md",
     "3.study/VIM/플러그인",
-    "1.dummy/24.03.07.md",
-    "1.dummy/24.03.06.md",
-    "1.dummy/24.03.05 기획 완.md",
-    "1.dummy/24.03.04 기획에 하루 쓰기.md",
-    "1.dummy/24.03.03 vim 하드...md",
+    "1.dummy/03.March/24.03.07.md",
+    "1.dummy/03.March/24.03.06.md",
+    "1.dummy/03.March/24.03.05 기획 완.md",
+    "1.dummy/03.March/24.03.04 기획에 하루 쓰기.md",
+    "1.dummy/03.March/24.03.03 vim 하드...md",
     "3.study/Linux/명령어/sudo.md",
     "3.study/Linux/명령어/sudo 없이 명령 실행하기.md",
     "3.study/Linux/명령어/sudo 비밀번호 없이 접속하기.md",
@@ -209,26 +241,16 @@
     "3.study/Linux/파일 내용 읽기.md",
     "3.study/Linux/명령어",
     "3.study/Git/github ssh timed out.md",
-    "1.dummy/24.03.02 옵시디언 사용하기.md",
     "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
     "media/Pasted image 20240308131114.png",
     "2.project/공부하고 준비할 것.md",
     "2.project/SSAFY 특화 프로젝트/개요.md",
-    "2.project/SSAFY 특화 프로젝트/포트정보.md",
-    "3.study/Linux/리눅스 CLI 단축키.md",
     "3.study/Linux",
-    "3.study/VIM/VIM 설정/VIM colorscheme.md",
     "1.dummy/무제 파일.canvas",
-    "3.study/VIM/VIM 설정/원하는 테마 찾기.md",
     "3.study/자동화&편리성",
     "media/Pasted image 20240307152053.png",
     "3.study/Git",
-    "3.study/VIM/VIM 설정",
-    "2.project/VIM",
-    "im-select.exe",
-    "3.study/VIM",
     "1.dummy/Untitled.canvas",
-    "2.project/건프라/Untitled.canvas",
-    "2.project/건프라/멀캠 ip 자동화 스크립트"
+    "2.project/건프라/Untitled.canvas"
   ]
 }
