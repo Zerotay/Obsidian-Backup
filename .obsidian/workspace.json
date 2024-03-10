@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
+                "file": "1.dummy/03.March/24.03.10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -37,17 +37,11 @@
             "id": "05e9bb76fdfc3ce7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.dummy/03.March/24.03.10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,11 +195,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05e9bb76fdfc3ce7",
+  "active": "1283ff233748f288",
   "lastOpenFiles": [
-    "media/Pasted image 20240310202618.png",
+    "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
     "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
+    "3.study/VIM/VIM 설정/VIM colorscheme.md",
     "1.dummy/03.March/24.03.10.md",
+    "media/Pasted image 20240310202618.png",
     "4.archive/2024",
     "4.archive",
     "1.dummy/03.March",
@@ -241,14 +237,12 @@
     "3.study/Linux/파일 내용 읽기.md",
     "3.study/Linux/명령어",
     "3.study/Git/github ssh timed out.md",
-    "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
     "media/Pasted image 20240308131114.png",
     "2.project/공부하고 준비할 것.md",
     "2.project/SSAFY 특화 프로젝트/개요.md",
     "3.study/Linux",
     "1.dummy/무제 파일.canvas",
     "3.study/자동화&편리성",
-    "media/Pasted image 20240307152053.png",
     "3.study/Git",
     "1.dummy/Untitled.canvas",
     "2.project/건프라/Untitled.canvas"

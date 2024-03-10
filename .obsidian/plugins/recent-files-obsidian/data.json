@@ -5,8 +5,16 @@
       "path": "1.dummy/03.March/24.03.10.md"
     },
     {
+      "basename": "commit 시 유저, 이메일 정보 등록",
+      "path": "3.study/Git/commit 시 유저, 이메일 정보 등록.md"
+    },
+    {
       "basename": "24.03.02 옵시디언 사용하기",
       "path": "1.dummy/03.March/24.03.02 옵시디언 사용하기.md"
+    },
+    {
+      "basename": "VIM colorscheme",
+      "path": "3.study/VIM/VIM 설정/VIM colorscheme.md"
     },
     {
       "basename": "도커파일 버전 관리",
@@ -81,10 +89,6 @@
       "path": "3.study/Git/github ssh timed out.md"
     },
     {
-      "basename": "commit 시 유저, 이메일 정보 등록",
-      "path": "3.study/Git/commit 시 유저, 이메일 정보 등록.md"
-    },
-    {
       "basename": "공부하고 준비할 것",
       "path": "2.project/공부하고 준비할 것.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "리눅스 CLI 단축키",
       "path": "3.study/Linux/리눅스 CLI 단축키.md"
-    },
-    {
-      "basename": "VIM colorscheme",
-      "path": "3.study/VIM/VIM 설정/VIM colorscheme.md"
     },
     {
       "basename": "원하는 테마 찾기",
