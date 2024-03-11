@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "1강. 클라우드 개요",
-      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
+      "basename": "24.03.12",
+      "path": "1.dummy/03.March/24.03.12.md"
     },
     {
       "basename": "24.03.11 ec2, 클라우드 강의",
       "path": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md"
+    },
+    {
+      "basename": "24.03.10 스타디",
+      "path": "1.dummy/03.March/24.03.10 스타디.md"
+    },
+    {
+      "basename": "24.03.09",
+      "path": "1.dummy/03.March/24.03.09.md"
+    },
+    {
+      "basename": "1강. 클라우드 개요",
+      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
     },
     {
       "basename": "24.03.02 옵시디언 사용하기",
@@ -23,14 +35,6 @@
     {
       "basename": "24.03.08",
       "path": "1.dummy/03.March/24.03.08.md"
-    },
-    {
-      "basename": "24.03.09",
-      "path": "1.dummy/03.March/24.03.09.md"
-    },
-    {
-      "basename": "24.03.10 스타디",
-      "path": "1.dummy/03.March/24.03.10 스타디.md"
     },
     {
       "basename": "commit 시 유저, 이메일 정보 등록",
