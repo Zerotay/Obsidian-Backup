@@ -13,23 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
+                "file": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "05e9bb76fdfc3ce7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c9846380ae7f412",
@@ -130,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
+              }
             }
           },
           {
@@ -198,9 +193,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "05e9bb76fdfc3ce7",
+  "active": "7afed17c22a075ae",
   "lastOpenFiles": [
     "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md",
+    "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
     "1.dummy/03.March/24.03.06.md",
     "1.dummy/03.March/24.03.07.md",
     "1.dummy/03.March/24.03.08.md",
@@ -212,7 +208,6 @@
     "media/Pasted image 20240311135309.png",
     "media/Pasted image 20240311103713.png",
     "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
-    "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
     "3.study/VIM/VIM 설정/VIM colorscheme.md",
     "media/Pasted image 20240310202618.png",
     "4.archive/2024",
