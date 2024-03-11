@@ -11,8 +11,13 @@
             "id": "7afed17c22a075ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.dummy/03.March/24.03.12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.dummy/03.March/24.03.12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.dummy/03.March/24.03.12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.dummy/03.March/24.03.12.md"
+              }
             }
           },
           {
@@ -167,18 +176,18 @@
   },
   "active": "7afed17c22a075ae",
   "lastOpenFiles": [
-    "1.dummy/03.March/24.03.12.md",
     "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md",
-    "1.dummy/03.March/24.03.10 스타디.md",
-    "1.dummy/03.March/24.03.09.md",
+    "1.dummy/03.March/24.03.12.md",
     "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
+    "1.dummy/03.March/24.03.10 스타디.md",
+    "1.dummy/03.March/24.03.07.md",
+    "1.dummy/03.March/24.03.08.md",
+    "1.dummy/03.March/24.03.09.md",
     "media/Pasted image 20240311234358.png",
     "media/Pasted image 20240311233105.png",
     "media/Pasted image 20240311233033.png",
     "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
     "1.dummy/03.March/24.03.06.md",
-    "1.dummy/03.March/24.03.07.md",
-    "1.dummy/03.March/24.03.08.md",
     "3.study/Kubernetes/클라우드 강의",
     "3.study/Kubernetes",
     "media/Pasted image 20240311135309.png",
