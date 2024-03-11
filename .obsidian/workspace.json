@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1283ff233748f288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.dummy/03.March/24.03.11.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7afed17c22a075ae",
             "type": "leaf",
             "state": {
@@ -39,6 +26,26 @@
             "state": {
               "type": "graph",
               "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6c9846380ae7f412",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1283ff233748f288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -123,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/03.March/24.03.11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/03.March/24.03.11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.dummy/03.March/24.03.11.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,10 +198,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1283ff233748f288",
+  "active": "05e9bb76fdfc3ce7",
   "lastOpenFiles": [
-    "1.dummy/03.March/24.03.10.md",
-    "1.dummy/03.March/24.03.11.md",
+    "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md",
+    "1.dummy/03.March/24.03.06.md",
+    "1.dummy/03.March/24.03.07.md",
+    "1.dummy/03.March/24.03.08.md",
+    "1.dummy/03.March/24.03.09.md",
+    "1.dummy/03.March/24.03.10 스타디.md",
+    "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
+    "3.study/Kubernetes/클라우드 강의",
+    "3.study/Kubernetes",
     "media/Pasted image 20240311135309.png",
     "media/Pasted image 20240311103713.png",
     "3.study/Git/commit 시 유저, 이메일 정보 등록.md",
@@ -211,7 +221,6 @@
     "3.study/Docker/도커파일 버전 관리.md",
     "3.study/Docker/무제 파일.md",
     "3.study/Docker-Compose",
-    "1.dummy/03.March/24.03.09.md",
     "3.study/VIM/플러그인/surround.vim.md",
     "3.study/Docker",
     "3.study/VIM/플러그인/플러그인 적용법.md",
@@ -225,10 +234,7 @@
     "media/Pasted image 20240310004711.png",
     "media/Pasted image 20240310004509.png",
     "media/Pasted image 20240310003918.png",
-    "1.dummy/03.March/24.03.08.md",
     "3.study/VIM/플러그인",
-    "1.dummy/03.March/24.03.07.md",
-    "1.dummy/03.March/24.03.06.md",
     "1.dummy/03.March/24.03.05 기획 완.md",
     "1.dummy/03.March/24.03.04 기획에 하루 쓰기.md",
     "1.dummy/03.March/24.03.03 vim 하드...md",
@@ -241,8 +247,6 @@
     "3.study/Git/github ssh timed out.md",
     "3.study/Linux",
     "1.dummy/무제 파일.canvas",
-    "3.study/자동화&편리성",
-    "3.study/Git",
     "1.dummy/Untitled.canvas",
     "2.project/건프라/Untitled.canvas"
   ]

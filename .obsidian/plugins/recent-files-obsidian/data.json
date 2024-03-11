@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "24.03.11",
-      "path": "1.dummy/03.March/24.03.11.md"
+      "basename": "24.03.11 ec2, 클라우드 강의",
+      "path": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md"
     },
     {
-      "basename": "24.03.10",
-      "path": "1.dummy/03.March/24.03.10.md"
+      "basename": "24.03.06",
+      "path": "1.dummy/03.March/24.03.06.md"
+    },
+    {
+      "basename": "24.03.07",
+      "path": "1.dummy/03.March/24.03.07.md"
+    },
+    {
+      "basename": "24.03.08",
+      "path": "1.dummy/03.March/24.03.08.md"
+    },
+    {
+      "basename": "24.03.09",
+      "path": "1.dummy/03.March/24.03.09.md"
+    },
+    {
+      "basename": "24.03.10 스타디",
+      "path": "1.dummy/03.March/24.03.10 스타디.md"
+    },
+    {
+      "basename": "1강. 클라우드 개요",
+      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
     },
     {
       "basename": "commit 시 유저, 이메일 정보 등록",
@@ -25,10 +45,6 @@
       "path": "3.study/Docker/도커파일 버전 관리.md"
     },
     {
-      "basename": "24.03.09",
-      "path": "1.dummy/03.March/24.03.09.md"
-    },
-    {
       "basename": "surround.vim",
       "path": "3.study/VIM/플러그인/surround.vim.md"
     },
@@ -43,18 +59,6 @@
     {
       "basename": "VIM 개요",
       "path": "3.study/VIM/VIM 개요.md"
-    },
-    {
-      "basename": "24.03.08",
-      "path": "1.dummy/03.March/24.03.08.md"
-    },
-    {
-      "basename": "24.03.07",
-      "path": "1.dummy/03.March/24.03.07.md"
-    },
-    {
-      "basename": "24.03.06",
-      "path": "1.dummy/03.March/24.03.06.md"
     },
     {
       "basename": "24.03.05 기획 완",
