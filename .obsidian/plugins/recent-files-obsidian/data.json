@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.13",
+      "path": "1.dummy/03.March/24.03.13.md"
+    },
+    {
+      "basename": "소유한 SSL 키를 활용하기",
+      "path": "3.study/nginx/소유한 SSL 키를 활용하기.md"
+    },
+    {
+      "basename": "SSL 지정하기",
+      "path": "3.study/nginx/SSL 지정하기.md"
+    },
+    {
+      "basename": "PowerToys",
+      "path": "3.study/자동화&편리성/PowerToys.md"
+    },
+    {
       "basename": "24.03.12 느징스 세우기, config 서버 도전",
       "path": "1.dummy/03.March/24.03.12 느징스 세우기, config 서버 도전.md"
     },
     {
       "basename": "24.03.11 ec2, 클라우드 강의",
       "path": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md"
-    },
-    {
-      "basename": "소유한 SSL 키를 활용하기",
-      "path": "소유한 SSL 키를 활용하기.md"
-    },
-    {
-      "basename": "SSL 지정하기",
-      "path": "3.study/nginx/SSL 지정하기.md"
     },
     {
       "basename": "surround.vim",
@@ -131,10 +139,6 @@
     {
       "basename": "Pasted image 20240306000020",
       "path": "media/Pasted image 20240306000020.png"
-    },
-    {
-      "basename": "PowerToys",
-      "path": "3.study/자동화&편리성/PowerToys.md"
     },
     {
       "basename": "IM-select로 노말모드 진입 시 영어로 전환하기",
