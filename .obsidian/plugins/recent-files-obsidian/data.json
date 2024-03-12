@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "24.03.12",
-      "path": "1.dummy/03.March/24.03.12.md"
+      "basename": "24.03.12 느징스 세우기, config 서버 도전",
+      "path": "1.dummy/03.March/24.03.12 느징스 세우기, config 서버 도전.md"
+    },
+    {
+      "basename": "24.03.11 ec2, 클라우드 강의",
+      "path": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md"
     },
     {
       "basename": "소유한 SSL 키를 활용하기",
@@ -15,10 +19,6 @@
     {
       "basename": "surround.vim",
       "path": "3.study/VIM/플러그인/surround.vim.md"
-    },
-    {
-      "basename": "24.03.11 ec2, 클라우드 강의",
-      "path": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md"
     },
     {
       "basename": "1강. 클라우드 개요",
