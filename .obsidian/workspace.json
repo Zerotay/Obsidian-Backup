@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/VIM/플러그인/surround.vim.md",
+                "file": "소유한 SSL 키를 활용하기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/VIM/플러그인/surround.vim.md",
+                "file": "소유한 SSL 키를 활용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/VIM/플러그인/surround.vim.md",
+                "file": "소유한 SSL 키를 활용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/VIM/플러그인/surround.vim.md"
+                "file": "소유한 SSL 키를 활용하기.md"
               }
             }
           },
@@ -176,6 +176,10 @@
   },
   "active": "7afed17c22a075ae",
   "lastOpenFiles": [
+    "3.study/nginx/SSL 지정하기.md",
+    "소유한 SSL 키를 활용하기.md",
+    "3.study/VIM/플러그인/surround.vim.md",
+    "3.study/nginx",
     "1.dummy/03.March/24.03.12.md",
     "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md",
     "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
@@ -201,7 +205,6 @@
     "3.study/Docker/도커파일 버전 관리.md",
     "3.study/Docker/무제 파일.md",
     "3.study/Docker-Compose",
-    "3.study/VIM/플러그인/surround.vim.md",
     "3.study/Docker",
     "3.study/VIM/플러그인/플러그인 적용법.md",
     "3.study/VIM/플러그인/VimAwesome.md",
@@ -218,10 +221,7 @@
     "3.study/Linux/명령어/sudo.md",
     "3.study/Linux/명령어/sudo 없이 명령 실행하기.md",
     "3.study/Linux/명령어/sudo 비밀번호 없이 접속하기.md",
-    "3.study/Linux/명령어/umask - 파일 생성 시 기본 권한 설정.md",
-    "3.study/Linux/파일 내용 읽기.md",
     "3.study/Linux/명령어",
-    "3.study/Linux",
     "1.dummy/무제 파일.canvas",
     "1.dummy/Untitled.canvas",
     "2.project/건프라/Untitled.canvas"

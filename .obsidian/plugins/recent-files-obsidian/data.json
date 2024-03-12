@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "소유한 SSL 키를 활용하기",
+      "path": "소유한 SSL 키를 활용하기.md"
+    },
+    {
+      "basename": "SSL 지정하기",
+      "path": "3.study/nginx/SSL 지정하기.md"
+    },
+    {
       "basename": "surround.vim",
       "path": "3.study/VIM/플러그인/surround.vim.md"
     },
