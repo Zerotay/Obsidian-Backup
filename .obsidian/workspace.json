@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/03.March/24.03.13.md",
+                "file": "3.study/Git/기본 에디터 변경.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/03.March/24.03.13.md",
+                "file": "3.study/Git/기본 에디터 변경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/03.March/24.03.13.md",
+                "file": "3.study/Git/기본 에디터 변경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/03.March/24.03.13.md"
+                "file": "3.study/Git/기본 에디터 변경.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "6a7be3fe7501213d",
   "lastOpenFiles": [
-    "2.project/SSAFY 특화 프로젝트/개요.md",
     "1.dummy/03.March/24.03.13.md",
+    "3.study/Git/기본 에디터 변경.md",
+    "2.project/SSAFY 특화 프로젝트/개요.md",
     "media/Pasted image 20240312230039.png",
     "3.study/nginx/소유한 SSL 키를 활용하기.md",
     "3.study/nginx/SSL 지정하기.md",
@@ -220,7 +221,6 @@
     "3.study/VIM/플러그인",
     "1.dummy/03.March/24.03.05 기획 완.md",
     "1.dummy/03.March/24.03.04 기획에 하루 쓰기.md",
-    "1.dummy/03.March/24.03.03 vim 하드...md",
     "3.study/Linux/명령어",
     "1.dummy/무제 파일.canvas",
     "1.dummy/Untitled.canvas",
