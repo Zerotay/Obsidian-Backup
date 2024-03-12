@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.12",
+      "path": "1.dummy/03.March/24.03.12.md"
+    },
+    {
       "basename": "소유한 SSL 키를 활용하기",
       "path": "소유한 SSL 키를 활용하기.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "surround.vim",
       "path": "3.study/VIM/플러그인/surround.vim.md"
-    },
-    {
-      "basename": "24.03.12",
-      "path": "1.dummy/03.March/24.03.12.md"
     },
     {
       "basename": "24.03.11 ec2, 클라우드 강의",
