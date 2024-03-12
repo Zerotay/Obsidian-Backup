@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "surround.vim",
+      "path": "3.study/VIM/플러그인/surround.vim.md"
+    },
+    {
       "basename": "24.03.12",
       "path": "1.dummy/03.March/24.03.12.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "도커파일 버전 관리",
       "path": "3.study/Docker/도커파일 버전 관리.md"
-    },
-    {
-      "basename": "surround.vim",
-      "path": "3.study/VIM/플러그인/surround.vim.md"
     },
     {
       "basename": "플러그인 적용법",
