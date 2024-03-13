@@ -5,6 +5,10 @@
       "path": "1.dummy/03.March/24.03.13.md"
     },
     {
+      "basename": "1강. 클라우드 개요",
+      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
+    },
+    {
       "basename": "reset",
       "path": "3.study/Git/reset.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "surround.vim",
       "path": "3.study/VIM/플러그인/surround.vim.md"
-    },
-    {
-      "basename": "1강. 클라우드 개요",
-      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
     },
     {
       "basename": "24.03.10 스타디",
