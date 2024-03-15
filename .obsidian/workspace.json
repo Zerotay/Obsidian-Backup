@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/03.March/24.03.14.md",
+                "file": "1.dummy/03.March/24.03.15.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/03.March/24.03.14.md",
+                "file": "1.dummy/03.March/24.03.15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/03.March/24.03.14.md",
+                "file": "1.dummy/03.March/24.03.15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/03.March/24.03.14.md"
+                "file": "1.dummy/03.March/24.03.15.md"
               }
             }
           },
@@ -189,8 +189,9 @@
   },
   "active": "6a7be3fe7501213d",
   "lastOpenFiles": [
-    "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
     "1.dummy/03.March/24.03.14.md",
+    "1.dummy/03.March/24.03.15.md",
+    "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
     "1.dummy/03.March/24.03.13 클라우드 강의, 메인 백 세팅.md",
     "media/Pasted image 20240313164044.png",
     "3.study/VIM/확장자 별 vim 설정.md",
@@ -232,7 +233,6 @@
     "3.study/Docker",
     "3.study/VIM/플러그인/플러그인 적용법.md",
     "3.study/VIM/플러그인/VimAwesome.md",
-    "surround.md",
     "3.study/VIM/플러그인",
     "3.study/Linux/명령어",
     "1.dummy/무제 파일.canvas",
