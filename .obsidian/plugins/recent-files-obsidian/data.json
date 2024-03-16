@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "무제 파일 1",
+      "path": "1.dummy/무제 파일 1.canvas"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "1.dummy/무제 파일.md"
+    },
+    {
+      "basename": "무제 파일",
+      "path": "1.dummy/무제 파일.canvas"
+    },
+    {
+      "basename": "발표 준비",
+      "path": "1.dummy/발표 준비.md"
+    },
+    {
+      "basename": "1강. 클라우드 개요",
+      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
+    },
+    {
       "basename": "24.03.16",
       "path": "1.dummy/03.March/24.03.16.md"
+    },
+    {
+      "basename": "클러스터",
+      "path": "3.study/Kubernetes/클러스터.md"
     },
     {
       "basename": "24.03.12 느징스 세우기, config 서버 도전",
@@ -11,10 +35,6 @@
     {
       "basename": "24.03.13 클라우드 강의, 메인 백 세팅",
       "path": "1.dummy/03.March/24.03.13 클라우드 강의, 메인 백 세팅.md"
-    },
-    {
-      "basename": "1강. 클라우드 개요",
-      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
     },
     {
       "basename": "24.03.15",
@@ -179,14 +199,6 @@
     {
       "basename": "Git 개요",
       "path": "3.study/Git/Git 개요.md"
-    },
-    {
-      "basename": "멀캠 ip 자동화 스크립트",
-      "path": "2.project/건프라/멀캠 ip 자동화 스크립트/멀캠 ip 자동화 스크립트.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "2.project/건프라/멀캠 ip 자동화 스크립트/Untitled.md"
     }
   ],
   "omittedPaths": [],
