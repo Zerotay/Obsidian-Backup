@@ -23,6 +23,16 @@
             }
           },
           {
+            "id": "913c32b8fa0c8da5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "0a6238ae01ea1c2a",
             "type": "leaf",
             "state": {
@@ -35,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/무제 파일 1.canvas",
+                "file": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/무제 파일 1.canvas",
+                "file": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/무제 파일 1.canvas"
+                "file": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md"
               }
             }
           },
@@ -190,10 +201,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a051bcb787782f8a",
+  "active": "913c32b8fa0c8da5",
   "lastOpenFiles": [
-    "1.dummy/무제 파일.md",
     "1.dummy/무제 파일 1.canvas",
+    "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md",
+    "1.dummy/무제 파일.md",
     "1.dummy/무제 파일.canvas",
     "1.dummy/발표 준비.md",
     "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
@@ -229,7 +241,6 @@
     "1.dummy/03.March/24.03.07.md",
     "1.dummy/03.March/24.03.08.md",
     "1.dummy/03.March/24.03.09.md",
-    "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
     "3.study/Kubernetes/클라우드 강의",
     "3.study/Kubernetes",
     "4.archive/2024",

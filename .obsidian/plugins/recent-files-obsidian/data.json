@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2024-03-16 15.59.07.excalidraw",
+      "path": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md"
+    },
+    {
       "basename": "무제 파일 1",
       "path": "1.dummy/무제 파일 1.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "IM-select로 노말모드 진입 시 영어로 전환하기",
       "path": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md"
-    },
-    {
-      "basename": "Git 개요",
-      "path": "3.study/Git/Git 개요.md"
     }
   ],
   "omittedPaths": [],
