@@ -5,6 +5,10 @@
       "path": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md"
     },
     {
+      "basename": "Drawing 2024-03-16 17.26.34.excalidraw",
+      "path": "Excalidraw/Drawing 2024-03-16 17.26.34.excalidraw.md"
+    },
+    {
       "basename": "무제 파일 1",
       "path": "1.dummy/무제 파일 1.canvas"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240306000020",
       "path": "media/Pasted image 20240306000020.png"
-    },
-    {
-      "basename": "IM-select로 노말모드 진입 시 영어로 전환하기",
-      "path": "3.study/VIM/IM-select로 노말모드 진입 시 영어로 전환하기.md"
     }
   ],
   "omittedPaths": [],
