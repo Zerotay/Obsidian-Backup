@@ -33,6 +33,16 @@
             }
           },
           {
+            "id": "85cb22bb327308e0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1.dummy/Drawing 2024-03-16 19.05.32.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "0a6238ae01ea1c2a",
             "type": "leaf",
             "state": {
@@ -46,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "904ef35e0f839809",
@@ -129,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md",
+                "file": "1.dummy/Drawing 2024-03-16 19.05.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md",
+                "file": "1.dummy/Drawing 2024-03-16 19.05.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md"
+                "file": "1.dummy/Drawing 2024-03-16 19.05.32.excalidraw.md"
               }
             }
           },
@@ -202,10 +211,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "913c32b8fa0c8da5",
+  "active": "85cb22bb327308e0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-03-16 17.26.34.excalidraw.md",
     "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md",
+    "1.dummy/Drawing 2024-03-16 19.05.32.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-16 17.26.34.excalidraw.md",
     "Excalidraw",
     "1.dummy/무제 파일 1.canvas",
     "1.dummy/무제 파일.md",
@@ -243,7 +253,6 @@
     "1.dummy/03.March/24.03.10 스타디.md",
     "1.dummy/03.March/24.03.07.md",
     "1.dummy/03.March/24.03.08.md",
-    "1.dummy/03.March/24.03.09.md",
     "3.study/Kubernetes/클라우드 강의",
     "3.study/Kubernetes",
     "4.archive/2024",
