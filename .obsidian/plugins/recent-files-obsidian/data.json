@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.17",
+      "path": "1.dummy/03.March/24.03.17.md"
+    },
+    {
       "basename": "Drawing 2024-03-16 19.05.32.excalidraw",
       "path": "1.dummy/Drawing 2024-03-16 19.05.32.excalidraw.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "리눅스 CLI 단축키",
       "path": "3.study/Linux/리눅스 CLI 단축키.md"
-    },
-    {
-      "basename": "원하는 테마 찾기",
-      "path": "3.study/VIM/VIM 설정/원하는 테마 찾기.md"
     }
   ],
   "omittedPaths": [],
