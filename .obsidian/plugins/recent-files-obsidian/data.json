@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.18",
+      "path": "1.dummy/03.March/24.03.18.md"
+    },
+    {
       "basename": "surround.vim",
       "path": "3.study/VIM/플러그인/surround.vim.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "포트정보",
       "path": "2.project/SSAFY 특화 프로젝트/포트정보.md"
-    },
-    {
-      "basename": "리눅스 CLI 단축키",
-      "path": "3.study/Linux/리눅스 CLI 단축키.md"
     }
   ],
   "omittedPaths": [],
