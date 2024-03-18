@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "surround.vim",
+      "path": "3.study/VIM/플러그인/surround.vim.md"
+    },
+    {
       "basename": "24.03.17",
       "path": "1.dummy/03.March/24.03.17.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "24.03.11 ec2, 클라우드 강의",
       "path": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md"
-    },
-    {
-      "basename": "surround.vim",
-      "path": "3.study/VIM/플러그인/surround.vim.md"
     },
     {
       "basename": "24.03.10 스타디",
