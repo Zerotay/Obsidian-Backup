@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/03.March/24.03.18.md",
+                "file": "3.study/Docker/cgoups.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/03.March/24.03.18.md",
+                "file": "3.study/Docker/cgoups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/03.March/24.03.18.md",
+                "file": "3.study/Docker/cgoups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/03.March/24.03.18.md"
+                "file": "3.study/Docker/cgoups.md"
               }
             }
           },
@@ -190,11 +190,14 @@
   },
   "active": "85cb22bb327308e0",
   "lastOpenFiles": [
+    "3.study/Docker/namespace.md",
+    "3.study/Docker/cgoups.md",
+    "3.study/Docker/도커.md",
+    "1.dummy/03.March/24.03.18.md",
     "2.project/SSAFY 특화 프로젝트/포트정보.md",
     "1.dummy/03.March/24.03.16.md",
     "1.dummy/무제 파일 1.canvas",
     "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md",
-    "1.dummy/03.March/24.03.18.md",
     "media/Pasted image 20240318225950.png",
     "media/Pasted image 20240318172008.png",
     "media/Pasted image 20240318152934.png",
@@ -226,8 +229,6 @@
     "3.study/Git/기본 에디터 변경.md",
     "2.project/SSAFY 특화 프로젝트/개요.md",
     "3.study/nginx/소유한 SSL 키를 활용하기.md",
-    "3.study/nginx/SSL 지정하기.md",
-    "3.study/자동화&편리성/PowerToys.md",
     "3.study/nginx",
     "3.study/Kubernetes/클라우드 강의",
     "3.study/Kubernetes",

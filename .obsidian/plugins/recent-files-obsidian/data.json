@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "cgoups",
+      "path": "3.study/Docker/cgoups.md"
+    },
+    {
+      "basename": "namespace",
+      "path": "3.study/Docker/namespace.md"
+    },
+    {
+      "basename": "도커",
+      "path": "3.study/Docker/도커.md"
+    },
+    {
       "basename": "24.03.18",
       "path": "1.dummy/03.March/24.03.18.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "umask - 파일 생성 시 기본 권한 설정",
       "path": "3.study/Linux/명령어/umask - 파일 생성 시 기본 권한 설정.md"
-    },
-    {
-      "basename": "파일 내용 읽기",
-      "path": "3.study/Linux/파일 내용 읽기.md"
-    },
-    {
-      "basename": "github ssh timed out",
-      "path": "3.study/Git/github ssh timed out.md"
-    },
-    {
-      "basename": "공부하고 준비할 것",
-      "path": "2.project/공부하고 준비할 것.md"
     }
   ],
   "omittedPaths": [],
