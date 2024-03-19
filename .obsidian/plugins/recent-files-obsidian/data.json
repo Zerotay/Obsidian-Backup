@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.19",
+      "path": "1.dummy/03.March/24.03.19.md"
+    },
+    {
       "basename": "cgoups",
       "path": "3.study/Docker/cgoups.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sudo 비밀번호 없이 접속하기",
       "path": "3.study/Linux/명령어/sudo 비밀번호 없이 접속하기.md"
-    },
-    {
-      "basename": "umask - 파일 생성 시 기본 권한 설정",
-      "path": "3.study/Linux/명령어/umask - 파일 생성 시 기본 권한 설정.md"
     }
   ],
   "omittedPaths": [],
