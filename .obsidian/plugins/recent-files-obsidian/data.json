@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.20",
+      "path": "1.dummy/03.March/24.03.20.md"
+    },
+    {
       "basename": "24.03.19",
       "path": "1.dummy/03.March/24.03.19.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "sudo 없이 명령 실행하기",
       "path": "3.study/Linux/명령어/sudo 없이 명령 실행하기.md"
-    },
-    {
-      "basename": "sudo 비밀번호 없이 접속하기",
-      "path": "3.study/Linux/명령어/sudo 비밀번호 없이 접속하기.md"
     }
   ],
   "omittedPaths": [],
