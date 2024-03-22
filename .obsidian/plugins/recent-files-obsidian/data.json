@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.22",
+      "path": "1.dummy/03.March/24.03.22.md"
+    },
+    {
       "basename": "24.03.20",
       "path": "1.dummy/03.March/24.03.20.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "24.03.03 vim 하드..",
       "path": "1.dummy/03.March/24.03.03 vim 하드...md"
-    },
-    {
-      "basename": "sudo",
-      "path": "3.study/Linux/명령어/sudo.md"
     }
   ],
   "omittedPaths": [],
