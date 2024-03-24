@@ -5,6 +5,10 @@
       "path": "3.study/자동화&편리성/Vagrant.md"
     },
     {
+      "basename": "HashiCorp",
+      "path": "3.study/미분류/HashiCorp.md"
+    },
+    {
       "basename": "24.03.24",
       "path": "1.dummy/03.March/24.03.24.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "commit 시 유저, 이메일 정보 등록",
       "path": "3.study/Git/commit 시 유저, 이메일 정보 등록.md"
-    },
-    {
-      "basename": "VIM colorscheme",
-      "path": "3.study/VIM/VIM 설정/VIM colorscheme.md"
     }
   ],
   "omittedPaths": [],
