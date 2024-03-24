@@ -5,6 +5,18 @@
       "path": "1.dummy/03.March/24.03.24.md"
     },
     {
+      "basename": "cgroups",
+      "path": "3.study/Docker/cgroups.md"
+    },
+    {
+      "basename": "namespace",
+      "path": "3.study/Docker/namespace.md"
+    },
+    {
+      "basename": "2장. 컨테이너",
+      "path": "3.study/Kubernetes/클라우드 강의/2장. 컨테이너.md"
+    },
+    {
       "basename": "Vagrant",
       "path": "3.study/자동화&편리성/Vagrant.md"
     },
@@ -47,14 +59,6 @@
     {
       "basename": "도커",
       "path": "3.study/Docker/도커.md"
-    },
-    {
-      "basename": "cgoups",
-      "path": "3.study/Docker/cgoups.md"
-    },
-    {
-      "basename": "namespace",
-      "path": "3.study/Docker/namespace.md"
     },
     {
       "basename": "도커파일 버전 관리",
@@ -153,10 +157,6 @@
       "path": "3.study/Kubernetes/클라우드 강의/3장. 디플로이먼트.md"
     },
     {
-      "basename": "2장. 컨테이너",
-      "path": "3.study/Kubernetes/클라우드 강의/2장. 컨테이너.md"
-    },
-    {
       "basename": "확장자 별 vim 설정",
       "path": "3.study/VIM/확장자 별 vim 설정.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "24.03.08",
       "path": "1.dummy/03.March/24.03.08.md"
-    },
-    {
-      "basename": "24.03.09",
-      "path": "1.dummy/03.March/24.03.09.md"
     }
   ],
   "omittedPaths": [],
