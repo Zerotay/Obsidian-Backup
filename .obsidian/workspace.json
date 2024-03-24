@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85cb22bb327308e0",
+            "id": "b15fe634c51feb30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/미분류/HashiCorp.md",
+                "file": "Infrastructure As a Code.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/미분류/HashiCorp.md",
+                "file": "Infrastructure As a Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/미분류/HashiCorp.md",
+                "file": "Infrastructure As a Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/미분류/HashiCorp.md"
+                "file": "Infrastructure As a Code.md"
               }
             }
           },
@@ -201,10 +201,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "85cb22bb327308e0",
+  "active": "b15fe634c51feb30",
   "lastOpenFiles": [
+    "3.study/자동화&편리성/프로비저닝.md",
+    "Infrastructure As a Code.md",
     "3.study/자동화&편리성/Vagrant.md",
     "3.study/미분류/HashiCorp.md",
+    "media/hashicorp 1.png",
+    "media/hashicorp.png",
     "media/Pasted image 20240324212216.png",
     "3.study/자동화&편리성/PowerToys.md",
     "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
@@ -234,12 +238,9 @@
     "media/Pasted image 20240322165506.png",
     "media/Pasted image 20240322160339.png",
     "media/Pasted image 20240322154312.png",
-    "media/Pasted image 20240322152434.png",
-    "media/Pasted image 20240322152416.png",
     "1.dummy/03.March/24.03.14.md",
     "2.project/SSAFY 특화 프로젝트/포트정보.md",
     "1.dummy/무제 파일 1.canvas",
-    "1.dummy/Drawing 2024-03-16 15.59.07.excalidraw.md",
     "Excalidraw",
     "1.dummy/무제 파일.canvas",
     "3.study/nginx",
