@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "PowerToys",
+      "path": "3.study/자동화&편리성/PowerToys.md"
+    },
+    {
+      "basename": "Terraform",
+      "path": "3.study/자동화&편리성/Terraform.md"
+    },
+    {
       "basename": "Infrastructure As a Code",
-      "path": "Infrastructure As a Code.md"
+      "path": "3.study/자동화&편리성/Infrastructure As a Code.md"
     },
     {
       "basename": "프로비저닝",
       "path": "3.study/자동화&편리성/프로비저닝.md"
     },
     {
-      "basename": "Vagrant",
-      "path": "3.study/자동화&편리성/Vagrant.md"
-    },
-    {
       "basename": "HashiCorp",
       "path": "3.study/미분류/HashiCorp.md"
     },
     {
-      "basename": "PowerToys",
-      "path": "3.study/자동화&편리성/PowerToys.md"
+      "basename": "Vagrant",
+      "path": "3.study/자동화&편리성/Vagrant.md"
     },
     {
       "basename": "1강. 클라우드 개요",
@@ -195,10 +199,6 @@
     {
       "basename": "24.03.09",
       "path": "1.dummy/03.March/24.03.09.md"
-    },
-    {
-      "basename": "24.03.02 옵시디언 사용하기",
-      "path": "1.dummy/03.March/24.03.02 옵시디언 사용하기.md"
     }
   ],
   "omittedPaths": [],
