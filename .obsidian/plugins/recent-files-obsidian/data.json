@@ -9,6 +9,14 @@
       "path": "3.study/미분류/HashiCorp.md"
     },
     {
+      "basename": "PowerToys",
+      "path": "3.study/자동화&편리성/PowerToys.md"
+    },
+    {
+      "basename": "1강. 클라우드 개요",
+      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
+    },
+    {
       "basename": "24.03.24",
       "path": "1.dummy/03.March/24.03.24.md"
     },
@@ -121,10 +129,6 @@
       "path": "1.dummy/발표 준비.md"
     },
     {
-      "basename": "1강. 클라우드 개요",
-      "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
-    },
-    {
       "basename": "24.03.12 느징스 세우기, config 서버 도전",
       "path": "1.dummy/03.March/24.03.12 느징스 세우기, config 서버 도전.md"
     },
@@ -163,10 +167,6 @@
     {
       "basename": "SSL 지정하기",
       "path": "3.study/nginx/SSL 지정하기.md"
-    },
-    {
-      "basename": "PowerToys",
-      "path": "3.study/자동화&편리성/PowerToys.md"
     },
     {
       "basename": "24.03.11 ec2, 클라우드 강의",
