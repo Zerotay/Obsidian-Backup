@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.24",
+      "path": "1.dummy/03.March/24.03.24.md"
+    },
+    {
+      "basename": "24.03.22",
+      "path": "1.dummy/03.March/24.03.22.md"
+    },
+    {
       "basename": "도커",
       "path": "3.study/Docker/도커.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "24.03.21",
       "path": "1.dummy/03.March/24.03.21.md"
-    },
-    {
-      "basename": "24.03.22",
-      "path": "1.dummy/03.March/24.03.22.md"
     },
     {
       "basename": "24.03.14",
@@ -195,10 +199,6 @@
     {
       "basename": "VimAwesome",
       "path": "3.study/VIM/플러그인/VimAwesome.md"
-    },
-    {
-      "basename": "VIM 개요",
-      "path": "3.study/VIM/VIM 개요.md"
     }
   ],
   "omittedPaths": [],
