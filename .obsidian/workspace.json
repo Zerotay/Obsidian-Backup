@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/자동화&편리성/Vagrant.md",
+                "file": "box.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/자동화&편리성/Vagrant.md",
+                "file": "box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/자동화&편리성/Vagrant.md",
+                "file": "box.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/자동화&편리성/Vagrant.md"
+                "file": "box.md"
               }
             }
           },
@@ -203,8 +203,10 @@
   },
   "active": "b15fe634c51feb30",
   "lastOpenFiles": [
-    "3.study/자동화&편리성/프로비저닝.md",
+    "media/Pasted image 20240324225115.png",
     "3.study/자동화&편리성/Vagrant.md",
+    "box.md",
+    "3.study/자동화&편리성/프로비저닝.md",
     "1.dummy/03.March/24.03.06.md",
     "1.dummy/03.March/24.03.24 vagrant.md",
     "3.study/Docker/cgroups.md",
@@ -234,8 +236,6 @@
     "1.dummy/03.March/24.03.15.md",
     "1.dummy/03.March/24.03.16.md",
     "1.dummy/03.March/24.03.17.md",
-    "1.dummy/03.March/24.03.18.md",
-    "1.dummy/03.March/24.03.19.md",
     "media/Pasted image 20240322220500.png",
     "media/Pasted image 20240322213841.png",
     "media/Pasted image 20240322165744.png",

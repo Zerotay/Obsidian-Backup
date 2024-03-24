@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "box",
+      "path": "box.md"
+    },
+    {
       "basename": "Vagrant",
       "path": "3.study/자동화&편리성/Vagrant.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "24.03.07",
       "path": "1.dummy/03.March/24.03.07.md"
-    },
-    {
-      "basename": "24.03.08",
-      "path": "1.dummy/03.March/24.03.08.md"
     }
   ],
   "omittedPaths": [],
