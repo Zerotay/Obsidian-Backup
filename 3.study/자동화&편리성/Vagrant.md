@@ -20,10 +20,12 @@ msi 파일을 다운받게 된다.
 약관만 동의하면 바로 설치가 가능하다.
 ![[Pasted image 20240324220652.png]]
 성공적으로 설치된다면 자동으로 환경변수에 명령어가 등록되어 사용 가능해진다.
-
 # 명령어
 https://developer.hashicorp.com/vagrant/docs/cli
 도큐먼트에 자세히 나와 있다.
+웬만해서는 이 명령어들을 다 사용할 일은 없는 것이 바람직할 것이다.
+왜냐하면 vagrant 파일을 작성하여 선언적으로 환경을 세팅하는 것이 vagrant의 핵심이기 때문이다.
+vagrant를 실행하는 명령어만 확실하게 아는 것이 이상적이다.
 - [[box]]
 - 
 # 기본 사용법
@@ -31,3 +33,4 @@ https://developer.hashicorp.com/vagrant/docs/cli
 - 프로젝트 루트 디렉토리에 Vagrantfile 생성
 - Vagrant 가상 인스턴스 라이프사이클 관리
 	- ssh를 통해 내부에 접근 가능하며, 이에 대한 세팅도 자동화 가능
+이를 위해서는 박스 이미지 개념을 알아야 하고, Vagrantfile을 작성할 줄 알아야 한다.

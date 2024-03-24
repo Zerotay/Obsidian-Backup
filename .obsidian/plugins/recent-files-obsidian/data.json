@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "box",
-      "path": "box.md"
-    },
-    {
       "basename": "Vagrant",
       "path": "3.study/자동화&편리성/Vagrant.md"
+    },
+    {
+      "basename": "box",
+      "path": "box.md"
     },
     {
       "basename": "프로비저닝",
