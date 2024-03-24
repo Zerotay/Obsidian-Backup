@@ -28,14 +28,26 @@ https://developer.hashicorp.com/vagrant/docs/cli
 vagrant를 실행하는 명령어만 확실하게 아는 것이 이상적이다.
 - [[box]]
 - 
-# 기본 사용법
+# 기본 사용법 및 명령어
 - 박스 이미지 다운로드하고 프로젝트 생성
 - 프로젝트 루트 디렉토리에 Vagrantfile 생성
 - Vagrant 가상 인스턴스 라이프사이클 관리
 	- ssh를 통해 내부에 접근 가능하며, 이에 대한 세팅도 자동화 가능
 
 이를 위해서는 박스 이미지 개념을 알아야 하고, Vagrantfile을 작성할 줄 알아야 한다.
-명령어 상에서 위 과정을 조금 더 세분화시켜서 보자.
-```
+명령어 관점에서 위 과정을 조금 더 세분화시켜서 보자면,
+```bash
+vagrant -v
 vagrant status
+vagrant global-status
+vagrant init
+vagrant up
+vagrant halt
+vagrant destroy
+vagrant suspend
+vagrant resume
+vagrant reload
+vagrant ssh
+vagrant provision
 ```
+위의 명령어들을 이해하고 차근차근 실행해보자.
