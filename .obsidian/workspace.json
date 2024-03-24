@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.study/자동화&편리성/PowerToys.md",
+                "file": "3.study/자동화&편리성/프로비저닝.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.study/자동화&편리성/PowerToys.md",
+                "file": "3.study/자동화&편리성/프로비저닝.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.study/자동화&편리성/PowerToys.md",
+                "file": "3.study/자동화&편리성/프로비저닝.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.study/자동화&편리성/PowerToys.md"
+                "file": "3.study/자동화&편리성/프로비저닝.md"
               }
             }
           },
@@ -203,15 +203,15 @@
   },
   "active": "b15fe634c51feb30",
   "lastOpenFiles": [
+    "3.study/자동화&편리성/Vagrant.md",
+    "3.study/자동화&편리성/PowerToys.md",
     "3.study/자동화&편리성/Terraform.md",
     "3.study/자동화&편리성/Infrastructure As a Code.md",
     "3.study/자동화&편리성/프로비저닝.md",
     "3.study/미분류/HashiCorp.md",
-    "3.study/자동화&편리성/Vagrant.md",
     "media/hashicorp 1.png",
     "media/hashicorp.png",
     "media/Pasted image 20240324212216.png",
-    "3.study/자동화&편리성/PowerToys.md",
     "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
     "3.study/미분류",
     "media/vagrant.png",
