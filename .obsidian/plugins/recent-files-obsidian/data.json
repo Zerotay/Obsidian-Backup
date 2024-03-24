@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Vagrant",
+      "path": "3.study/자동화&편리성/Vagrant.md"
+    },
+    {
       "basename": "24.03.24",
       "path": "1.dummy/03.March/24.03.24.md"
+    },
+    {
+      "basename": "공부하고 준비할 것",
+      "path": "2.project/공부하고 준비할 것.md"
     },
     {
       "basename": "클러스터",
@@ -191,14 +199,6 @@
     {
       "basename": "VIM colorscheme",
       "path": "3.study/VIM/VIM 설정/VIM colorscheme.md"
-    },
-    {
-      "basename": "플러그인 적용법",
-      "path": "3.study/VIM/플러그인/플러그인 적용법.md"
-    },
-    {
-      "basename": "VimAwesome",
-      "path": "3.study/VIM/플러그인/VimAwesome.md"
     }
   ],
   "omittedPaths": [],
