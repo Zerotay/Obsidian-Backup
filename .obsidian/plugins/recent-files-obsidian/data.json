@@ -1,24 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "24.03.22",
-      "path": "1.dummy/03.March/24.03.22.md"
-    },
-    {
-      "basename": "24.03.20",
-      "path": "1.dummy/03.March/24.03.20.md"
-    },
-    {
-      "basename": "24.03.21",
-      "path": "1.dummy/03.March/24.03.21.md"
-    },
-    {
-      "basename": "24.03.14",
-      "path": "1.dummy/03.March/24.03.14.md"
-    },
-    {
-      "basename": "24.03.19",
-      "path": "1.dummy/03.March/24.03.19.md"
+      "basename": "도커",
+      "path": "3.study/Docker/도커.md"
     },
     {
       "basename": "cgoups",
@@ -29,20 +13,60 @@
       "path": "3.study/Docker/namespace.md"
     },
     {
-      "basename": "도커",
-      "path": "3.study/Docker/도커.md"
+      "basename": "도커파일 버전 관리",
+      "path": "3.study/Docker/도커파일 버전 관리.md"
+    },
+    {
+      "basename": "파일 내용 읽기",
+      "path": "3.study/Linux/파일 내용 읽기.md"
+    },
+    {
+      "basename": "리눅스 CLI 단축키",
+      "path": "3.study/Linux/리눅스 CLI 단축키.md"
+    },
+    {
+      "basename": "umask - 파일 생성 시 기본 권한 설정",
+      "path": "3.study/Linux/명령어/umask - 파일 생성 시 기본 권한 설정.md"
+    },
+    {
+      "basename": "24.03.15",
+      "path": "1.dummy/03.March/24.03.15.md"
+    },
+    {
+      "basename": "24.03.16",
+      "path": "1.dummy/03.March/24.03.16.md"
+    },
+    {
+      "basename": "24.03.17",
+      "path": "1.dummy/03.March/24.03.17.md"
     },
     {
       "basename": "24.03.18",
       "path": "1.dummy/03.March/24.03.18.md"
     },
     {
-      "basename": "포트정보",
-      "path": "2.project/SSAFY 특화 프로젝트/포트정보.md"
+      "basename": "24.03.19",
+      "path": "1.dummy/03.March/24.03.19.md"
     },
     {
-      "basename": "24.03.16",
-      "path": "1.dummy/03.March/24.03.16.md"
+      "basename": "24.03.20",
+      "path": "1.dummy/03.March/24.03.20.md"
+    },
+    {
+      "basename": "24.03.21",
+      "path": "1.dummy/03.March/24.03.21.md"
+    },
+    {
+      "basename": "24.03.22",
+      "path": "1.dummy/03.March/24.03.22.md"
+    },
+    {
+      "basename": "24.03.14",
+      "path": "1.dummy/03.March/24.03.14.md"
+    },
+    {
+      "basename": "포트정보",
+      "path": "2.project/SSAFY 특화 프로젝트/포트정보.md"
     },
     {
       "basename": "무제 파일 1",
@@ -55,10 +79,6 @@
     {
       "basename": "surround.vim",
       "path": "3.study/VIM/플러그인/surround.vim.md"
-    },
-    {
-      "basename": "24.03.17",
-      "path": "1.dummy/03.March/24.03.17.md"
     },
     {
       "basename": "Drawing 2024-03-16 19.05.32.excalidraw",
@@ -95,10 +115,6 @@
     {
       "basename": "24.03.13 클라우드 강의, 메인 백 세팅",
       "path": "1.dummy/03.March/24.03.13 클라우드 강의, 메인 백 세팅.md"
-    },
-    {
-      "basename": "24.03.15",
-      "path": "1.dummy/03.March/24.03.15.md"
     },
     {
       "basename": "3장. 디플로이먼트",
@@ -173,10 +189,6 @@
       "path": "3.study/VIM/VIM 설정/VIM colorscheme.md"
     },
     {
-      "basename": "도커파일 버전 관리",
-      "path": "3.study/Docker/도커파일 버전 관리.md"
-    },
-    {
       "basename": "플러그인 적용법",
       "path": "3.study/VIM/플러그인/플러그인 적용법.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "VIM 개요",
       "path": "3.study/VIM/VIM 개요.md"
-    },
-    {
-      "basename": "24.03.05 기획 완",
-      "path": "1.dummy/03.March/24.03.05 기획 완.md"
-    },
-    {
-      "basename": "24.03.04 기획에 하루 쓰기",
-      "path": "1.dummy/03.March/24.03.04 기획에 하루 쓰기.md"
-    },
-    {
-      "basename": "24.03.03 vim 하드..",
-      "path": "1.dummy/03.March/24.03.03 vim 하드...md"
     }
   ],
   "omittedPaths": [],
