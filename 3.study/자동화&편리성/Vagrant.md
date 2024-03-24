@@ -16,4 +16,9 @@ https://developer.hashicorp.com/vagrant/install?product_intent=vagrant#windows
 ![[Pasted image 20240324212216.png]]
 본인의 맞는 파일을 다운로드한다.
 msi 파일을 다운받게 된다.
+![[Pasted image 20240324220601.png]]
+약관만 동의하면 바로 설치가 가능하다.
+![[Pasted image 20240324220652.png]]
+성공적으로 설치된다면 자동으로 환경변수에 명령어가 등록되어 사용 가능해진다.
+
 
