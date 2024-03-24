@@ -5,6 +5,10 @@
       "path": "1.dummy/03.March/24.03.24.md"
     },
     {
+      "basename": "클러스터",
+      "path": "3.study/Kubernetes/클러스터.md"
+    },
+    {
       "basename": "24.03.22",
       "path": "1.dummy/03.March/24.03.22.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "1강. 클라우드 개요",
       "path": "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md"
-    },
-    {
-      "basename": "클러스터",
-      "path": "3.study/Kubernetes/클러스터.md"
     },
     {
       "basename": "24.03.12 느징스 세우기, config 서버 도전",
