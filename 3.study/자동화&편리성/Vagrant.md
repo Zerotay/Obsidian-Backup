@@ -26,16 +26,20 @@ https://developer.hashicorp.com/vagrant/docs/cli
 웬만해서는 이 명령어들을 다 사용할 일은 없는 것이 바람직할 것이다.
 왜냐하면 vagrant 파일을 작성하여 선언적으로 환경을 세팅하는 것이 vagrant의 핵심이기 때문이다.
 vagrant를 실행하는 명령어만 확실하게 아는 것이 이상적이다.
-- [[box]]
-- 
-# 기본 사용법 및 명령어
-- 박스 이미지 다운로드하고 프로젝트 생성
-- 프로젝트 루트 디렉토리에 Vagrantfile 생성
+# 사용자 플로우
+- 박스 이미지 다운로드 혹은 프로젝트 생성
+- Vagrantfile 작성
 - Vagrant 가상 인스턴스 라이프사이클 관리
 	- ssh를 통해 내부에 접근 가능하며, 이에 대한 세팅도 자동화 가능
-
+이와 같은 흐름에 따라 vagrant를 활용할 수 있다. 
+# 기본 조작 및 명령어
 이를 위해서는 박스 이미지 개념을 알아야 하고, Vagrantfile을 작성할 줄 알아야 한다.
-명령어 관점에서 위 과정을 조금 더 세분화시켜서 보자면,
+박스 이미지는 iso, 내지는 컨테이너 이미지를 생각하면 된다. 세팅할 환경을 담고 있는 파일이다.
+![[Pasted image 20240324225115.png]]
+https://app.vagrantup.com/boxes/search
+이곳을 통해 vagrant cloud에 들어가 각종 박스 이미지들을 찾아볼 수 있다.
+
+이제 명령어 관점에서 위 과정을 조금 더 세분화시켜서 보자면,
 ```bash
 vagrant -v
 vagrant status
@@ -51,3 +55,4 @@ vagrant ssh
 vagrant provision
 ```
 위의 명령어들을 이해하고 차근차근 실행해보자.
+
