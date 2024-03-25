@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.25",
+      "path": "1.dummy/03.March/24.03.25.md"
+    },
+    {
+      "basename": "24.03.24 vagrant",
+      "path": "1.dummy/03.March/24.03.24 vagrant.md"
+    },
+    {
       "basename": "24.03.20",
       "path": "1.dummy/03.March/24.03.20.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "24.03.18",
       "path": "1.dummy/03.March/24.03.18.md"
-    },
-    {
-      "basename": "24.03.24 vagrant",
-      "path": "1.dummy/03.March/24.03.24 vagrant.md"
     },
     {
       "basename": "Vagrant",
@@ -195,10 +199,6 @@
     {
       "basename": "24.03.10 스타디",
       "path": "1.dummy/03.March/24.03.10 스타디.md"
-    },
-    {
-      "basename": "24.03.07",
-      "path": "1.dummy/03.March/24.03.07.md"
     }
   ],
   "omittedPaths": [],

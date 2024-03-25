@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/03.March/24.03.20.md",
+                "file": "1.dummy/03.March/24.03.25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/03.March/24.03.20.md",
+                "file": "1.dummy/03.March/24.03.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/03.March/24.03.20.md",
+                "file": "1.dummy/03.March/24.03.25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/03.March/24.03.20.md"
+                "file": "1.dummy/03.March/24.03.25.md"
               }
             }
           },
@@ -190,14 +190,16 @@
   },
   "active": "10c78c1c15c5e3f1",
   "lastOpenFiles": [
+    "media/Pasted image 20240325101409.png",
+    "1.dummy/03.March/24.03.24 vagrant.md",
+    "1.dummy/03.March/24.03.25.md",
+    "1.dummy/03.March/24.03.20.md",
     "1.dummy/03.March/24.03.21.md",
     "1.dummy/03.March/24.03.22 프론트 에러 해결, 파이썬 서버.md",
     "1.dummy/03.March/24.03.17.md",
     "1.dummy/03.March/24.03.19.md",
-    "1.dummy/03.March/24.03.20.md",
     "1.dummy/03.March/24.03.16.md",
     "1.dummy/03.March/24.03.18.md",
-    "1.dummy/03.March/24.03.24 vagrant.md",
     "3.study/자동화&편리성/Vagrant.md",
     "box.md",
     "media/Pasted image 20240324225115.png",
@@ -222,8 +224,6 @@
     "2.project/공부하고 준비할 것.md",
     "3.study/Kubernetes/클러스터.md",
     "3.study/Docker/도커.md",
-    "3.study/Docker/도커파일 버전 관리.md",
-    "3.study/Linux/파일 내용 읽기.md",
     "media/Pasted image 20240322220500.png",
     "media/Pasted image 20240322213841.png",
     "media/Pasted image 20240322165744.png",
