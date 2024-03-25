@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.dummy/03.March/24.03.25.md",
+                "file": "1.dummy/03.March/24.03.20 poetry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/03.March/24.03.25.md",
+                "file": "1.dummy/03.March/24.03.20 poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/03.March/24.03.25.md",
+                "file": "1.dummy/03.March/24.03.20 poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/03.March/24.03.25.md"
+                "file": "1.dummy/03.March/24.03.20 poetry.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "10c78c1c15c5e3f1",
   "lastOpenFiles": [
+    "1.dummy/03.March/24.03.21.md",
+    "1.dummy/03.March/24.03.22 프론트 에러 해결, 파이썬 poetry.md",
+    "1.dummy/03.March/24.03.25 pyenv.md",
     "media/Pasted image 20240325135220.png",
     "media/Pasted image 20240325132443.png",
     "media/Pasted image 20240325125907.png",
@@ -198,10 +201,7 @@
     "media/Pasted image 20240325103747.png",
     "media/Pasted image 20240325101409.png",
     "1.dummy/03.March/24.03.24 vagrant.md",
-    "1.dummy/03.March/24.03.25.md",
-    "1.dummy/03.March/24.03.20.md",
-    "1.dummy/03.March/24.03.21.md",
-    "1.dummy/03.March/24.03.22 프론트 에러 해결, 파이썬 서버.md",
+    "1.dummy/03.March/24.03.20 poetry.md",
     "1.dummy/03.March/24.03.17.md",
     "1.dummy/03.March/24.03.19.md",
     "1.dummy/03.March/24.03.16.md",
@@ -221,7 +221,6 @@
     "3.study/자동화&편리성/Infrastructure As a Code.md",
     "3.study/자동화&편리성/PowerToys.md",
     "3.study/미분류/HashiCorp.md",
-    "media/hashicorp 1.png",
     "3.study/Kubernetes/클라우드 강의/1강. 클라우드 개요.md",
     "3.study/미분류",
     "2.project/공부하고 준비할 것.md",
