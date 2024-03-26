@@ -5,6 +5,22 @@
       "path": "1.dummy/03.March/24.03.25 pyenv.md"
     },
     {
+      "basename": "24.03.26",
+      "path": "1.dummy/03.March/24.03.26.md"
+    },
+    {
+      "basename": "24.03.16",
+      "path": "1.dummy/03.March/24.03.16.md"
+    },
+    {
+      "basename": "Infrastructure As a Code",
+      "path": "3.study/자동화&편리성/Infrastructure As a Code.md"
+    },
+    {
+      "basename": "프로비저닝",
+      "path": "3.study/자동화&편리성/프로비저닝.md"
+    },
+    {
       "basename": "24.03.20 poetry",
       "path": "1.dummy/03.March/24.03.20 poetry.md"
     },
@@ -29,10 +45,6 @@
       "path": "1.dummy/03.March/24.03.19.md"
     },
     {
-      "basename": "24.03.16",
-      "path": "1.dummy/03.March/24.03.16.md"
-    },
-    {
       "basename": "24.03.18",
       "path": "1.dummy/03.March/24.03.18.md"
     },
@@ -43,10 +55,6 @@
     {
       "basename": "box",
       "path": "box.md"
-    },
-    {
-      "basename": "프로비저닝",
-      "path": "3.study/자동화&편리성/프로비저닝.md"
     },
     {
       "basename": "24.03.06",
@@ -67,10 +75,6 @@
     {
       "basename": "Terraform",
       "path": "3.study/자동화&편리성/Terraform.md"
-    },
-    {
-      "basename": "Infrastructure As a Code",
-      "path": "3.study/자동화&편리성/Infrastructure As a Code.md"
     },
     {
       "basename": "PowerToys",
@@ -195,10 +199,6 @@
     {
       "basename": "24.03.11 ec2, 클라우드 강의",
       "path": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md"
-    },
-    {
-      "basename": "24.03.10 스타디",
-      "path": "1.dummy/03.March/24.03.10 스타디.md"
     }
   ],
   "omittedPaths": [],
