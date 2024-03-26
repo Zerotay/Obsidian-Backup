@@ -11,8 +11,13 @@
             "id": "06b7c9d1baf102ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.dummy/03.March/24.03.26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.dummy/03.March/24.03.26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.dummy/03.March/24.03.26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.dummy/03.March/24.03.26.md"
+              }
             }
           },
           {
@@ -168,6 +177,7 @@
   },
   "active": "06b7c9d1baf102ec",
   "lastOpenFiles": [
+    "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
     "1.dummy/03.March/24.03.25 pyenv.md",
     "1.dummy/03.March/24.03.26.md",
     "1.dummy/03.March/24.03.16.md",
@@ -204,7 +214,6 @@
     "3.study/미분류",
     "2.project/공부하고 준비할 것.md",
     "3.study/Kubernetes/클러스터.md",
-    "3.study/Docker/도커.md",
     "1.dummy/무제 파일 1.canvas",
     "Excalidraw",
     "1.dummy/무제 파일.canvas",

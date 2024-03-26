@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "24.03.25 pyenv",
-      "path": "1.dummy/03.March/24.03.25 pyenv.md"
-    },
-    {
       "basename": "24.03.26",
       "path": "1.dummy/03.March/24.03.26.md"
+    },
+    {
+      "basename": "24.03.02 옵시디언 사용하기",
+      "path": "1.dummy/03.March/24.03.02 옵시디언 사용하기.md"
+    },
+    {
+      "basename": "24.03.25 pyenv",
+      "path": "1.dummy/03.March/24.03.25 pyenv.md"
     },
     {
       "basename": "24.03.16",
@@ -195,10 +199,6 @@
     {
       "basename": "SSL 지정하기",
       "path": "3.study/nginx/SSL 지정하기.md"
-    },
-    {
-      "basename": "24.03.11 ec2, 클라우드 강의",
-      "path": "1.dummy/03.March/24.03.11 ec2, 클라우드 강의.md"
     }
   ],
   "omittedPaths": [],
