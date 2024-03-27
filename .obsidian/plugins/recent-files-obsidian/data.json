@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.28",
+      "path": "1.dummy/24.03.28.md"
+    },
+    {
       "basename": "24.03.27",
       "path": "1.dummy/03.March/24.03.27.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "기본 에디터 변경",
       "path": "3.study/Git/기본 에디터 변경.md"
-    },
-    {
-      "basename": "개요",
-      "path": "2.project/SSAFY 특화 프로젝트/개요.md"
     }
   ],
   "omittedPaths": [],

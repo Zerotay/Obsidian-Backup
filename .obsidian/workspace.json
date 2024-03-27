@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba78a776157f6a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.dummy/24.03.28.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/03.March/24.03.27.md",
+                "file": "1.dummy/24.03.28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/03.March/24.03.27.md",
+                "file": "1.dummy/24.03.28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/03.March/24.03.27.md"
+                "file": "1.dummy/24.03.28.md"
               }
             }
           },
@@ -189,20 +202,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cb2bcd7c6ecf79e",
+  "active": "ba78a776157f6a8d",
   "lastOpenFiles": [
+    "1.dummy/03.March/24.03.27.md",
+    "1.dummy/24.03.28.md",
     "media/Pasted image 20240327234741.png",
     "media/Pasted image 20240327210921.png",
     "media/Pasted image 20240327210914.png",
     "media/Pasted image 20240327210444.png",
     "media/Pasted image 20240327210156.png",
-    "1.dummy/03.March/24.03.27.md",
     "media/Pasted image 20240327205100.png",
     "media/Pasted image 20240327204915.png",
     "media/Pasted image 20240327204904.png",
     "media/Pasted image 20240327140134.png",
     "media/Pasted image 20240327140047.png",
-    "media/Pasted image 20240327135914.png",
     "1.dummy/03.March/24.03.26.md",
     "1.dummy/03.March/24.03.02 옵시디언 사용하기.md",
     "1.dummy/03.March/24.03.25 pyenv.md",
