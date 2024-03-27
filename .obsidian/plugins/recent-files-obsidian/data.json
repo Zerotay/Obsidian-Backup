@@ -5,6 +5,10 @@
       "path": "1.dummy/03.March/24.03.27.md"
     },
     {
+      "basename": "Pasted image 20240327210156",
+      "path": "media/Pasted image 20240327210156.png"
+    },
+    {
       "basename": "24.03.26",
       "path": "1.dummy/03.March/24.03.26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "개요",
       "path": "2.project/SSAFY 특화 프로젝트/개요.md"
-    },
-    {
-      "basename": "소유한 SSL 키를 활용하기",
-      "path": "3.study/nginx/소유한 SSL 키를 활용하기.md"
     }
   ],
   "omittedPaths": [],
