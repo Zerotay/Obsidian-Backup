@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.dummy/03.March/24.03.26.md",
+                "file": "1.dummy/03.March/24.03.27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.dummy/03.March/24.03.26.md",
+                "file": "1.dummy/03.March/24.03.27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.dummy/03.March/24.03.26.md"
+                "file": "1.dummy/03.March/24.03.27.md"
               }
             }
           },
@@ -188,10 +189,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06c071cfcd62eff9",
+  "active": "8cb2bcd7c6ecf79e",
   "lastOpenFiles": [
-    "1.dummy/03.March/24.03.27.md",
+    "media/Pasted image 20240327095606.png",
     "1.dummy/03.March/24.03.26.md",
+    "1.dummy/03.March/24.03.27.md",
     "media/Pasted image 20240327092322.png",
     "media/Pasted image 20240326234948.png",
     "media/Pasted image 20240326233908.png",
