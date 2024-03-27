@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24.03.27",
+      "path": "1.dummy/03.March/24.03.27.md"
+    },
+    {
       "basename": "24.03.26",
       "path": "1.dummy/03.March/24.03.26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "소유한 SSL 키를 활용하기",
       "path": "3.study/nginx/소유한 SSL 키를 활용하기.md"
-    },
-    {
-      "basename": "SSL 지정하기",
-      "path": "3.study/nginx/SSL 지정하기.md"
     }
   ],
   "omittedPaths": [],

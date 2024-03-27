@@ -12,6 +12,6 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "dummy",
+  "newFileFolderPath": "1.dummy",
   "focusNewTab": true
 }
