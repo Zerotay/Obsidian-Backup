@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "24.03.28",
-      "path": "1.dummy/24.03.28.md"
-    },
-    {
       "basename": "24.03.27",
       "path": "1.dummy/03.March/24.03.27.md"
     },
     {
-      "basename": "Pasted image 20240327210156",
-      "path": "media/Pasted image 20240327210156.png"
+      "basename": "24.03.22 프론트 에러 해결, 파이썬 poetry",
+      "path": "1.dummy/03.March/24.03.22 프론트 에러 해결, 파이썬 poetry.md"
+    },
+    {
+      "basename": "24.03.21",
+      "path": "1.dummy/03.March/24.03.21.md"
+    },
+    {
+      "basename": "24.03.20 poetry",
+      "path": "1.dummy/03.March/24.03.20 poetry.md"
+    },
+    {
+      "basename": "24.03.19",
+      "path": "1.dummy/03.March/24.03.19.md"
+    },
+    {
+      "basename": "24.03.18",
+      "path": "1.dummy/03.March/24.03.18.md"
+    },
+    {
+      "basename": "24.03.24 vagrant",
+      "path": "1.dummy/03.March/24.03.24 vagrant.md"
+    },
+    {
+      "basename": "24.03.25 pyenv",
+      "path": "1.dummy/03.March/24.03.25 pyenv.md"
     },
     {
       "basename": "24.03.26",
       "path": "1.dummy/03.March/24.03.26.md"
     },
     {
-      "basename": "24.03.02 옵시디언 사용하기",
-      "path": "1.dummy/03.March/24.03.02 옵시디언 사용하기.md"
+      "basename": "24.03.28",
+      "path": "1.dummy/24.03.28.md"
     },
     {
-      "basename": "24.03.25 pyenv",
-      "path": "1.dummy/03.March/24.03.25 pyenv.md"
+      "basename": "Pasted image 20240327210156",
+      "path": "media/Pasted image 20240327210156.png"
+    },
+    {
+      "basename": "24.03.02 옵시디언 사용하기",
+      "path": "1.dummy/03.March/24.03.02 옵시디언 사용하기.md"
     },
     {
       "basename": "24.03.16",
@@ -37,32 +61,8 @@
       "path": "3.study/자동화&편리성/프로비저닝.md"
     },
     {
-      "basename": "24.03.20 poetry",
-      "path": "1.dummy/03.March/24.03.20 poetry.md"
-    },
-    {
-      "basename": "24.03.21",
-      "path": "1.dummy/03.March/24.03.21.md"
-    },
-    {
-      "basename": "24.03.22 프론트 에러 해결, 파이썬 poetry",
-      "path": "1.dummy/03.March/24.03.22 프론트 에러 해결, 파이썬 poetry.md"
-    },
-    {
-      "basename": "24.03.24 vagrant",
-      "path": "1.dummy/03.March/24.03.24 vagrant.md"
-    },
-    {
       "basename": "24.03.17",
       "path": "1.dummy/03.March/24.03.17.md"
-    },
-    {
-      "basename": "24.03.19",
-      "path": "1.dummy/03.March/24.03.19.md"
-    },
-    {
-      "basename": "24.03.18",
-      "path": "1.dummy/03.March/24.03.18.md"
     },
     {
       "basename": "Vagrant",
